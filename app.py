@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(__file__)
 DATA_PATH = os.path.join(BASE_DIR, "data", "Dataset_PT_WLU.csv")
 
 # Debug (boleh dihapus nanti)
-st.write("Isi folder data:", os.listdir(os.path.join(BASE_DIR, "data")))
+# st.write("Isi folder data:", os.listdir(os.path.join(BASE_DIR, "data")))
 
 df = pd.read_csv(DATA_PATH, sep=";")
 
@@ -128,3 +128,4 @@ if st.button("Rekomendasikan Pompa"):
                 ["product_name", "capacity_m3h", "head_m", "power_kw", "price_idr"]
             ]
         )
+
