@@ -1,0 +1,590 @@
+﻿product_id;product_name;category;series;capacity_m3h;head_m;power_kw;material;application_industry;price_idr;stock;rating;warranty_months
+WL-0001;Wilo-CronoLine-IL 600/90-90;Inline Centrifugal;CronoLine-IL;600;90;90;Cast Iron;Water Treatment;197800000;24;4,8;18
+WL-0002;Wilo-CronoLine-IL 600/160-90;Inline Centrifugal;CronoLine-IL;600;160;90;Stainless Steel 304;Manufacturing;265600000;5;4,1;6
+WL-0003;Wilo-CronoLine-IL 600/15-75;Inline Centrifugal;CronoLine-IL;600;15;75;Duplex Steel;Water Treatment;316500000;19;4,1;24
+WL-0004;Wilo-CronoLine-IL 600/55-90;Inline Centrifugal;CronoLine-IL;600;55;90;Cast Iron;Water Treatment;221600000;3;3,6;12
+WL-0005;Wilo-CronoLine-IL 600/15-90;Inline Centrifugal;CronoLine-IL;600;15;90;Stainless Steel 304;Pharmaceutical;274100000;20;4,3;6
+WL-0006;Wilo-CronoLine-IL 555/155-90;Inline Centrifugal;CronoLine-IL;555;155;90;Duplex Steel;Manufacturing;358200000;23;4,1;24
+WL-0007;Wilo-CronoLine-IL 600/35-90;Inline Centrifugal;CronoLine-IL;600;35;90;Stainless Steel 304;Chemical Processing;260200000;19;3,9;18
+WL-0008;Wilo-CronoLine-IL 600/170-90;Inline Centrifugal;CronoLine-IL;600;170;90;Cast Iron;Manufacturing;237400000;23;4,6;24
+WL-0009;Wilo-CronoLine-IL 600/80-90;Inline Centrifugal;CronoLine-IL;600;80;90;Stainless Steel 316L;Food & Beverage;338300000;5;4;12
+WL-0010;Wilo-CronoLine-IL 305/45-37;Inline Centrifugal;CronoLine-IL;305;45;37;Stainless Steel 316L;Water Treatment;149100000;3;4,3;24
+WL-0011;Wilo-CronoLine-IL 520/135-90;Inline Centrifugal;CronoLine-IL;520;135;90;Cast Iron;Food & Beverage;219500000;28;4,6;18
+WL-0012;Wilo-CronoLine-IL 600/60-75;Inline Centrifugal;CronoLine-IL;600;60;75;Duplex Steel;Food & Beverage;288200000;26;4,7;6
+WL-0013;Wilo-CronoLine-IL 370/25-55;Inline Centrifugal;CronoLine-IL;370;25;55;Bronze Fitted;Pharmaceutical;192700000;4;4,8;24
+WL-0014;Wilo-CronoLine-IL 390/95-55;Inline Centrifugal;CronoLine-IL;390;95;55;Cast Iron;Pharmaceutical;137000000;10;4,6;18
+WL-0015;Wilo-CronoLine-IL 600/190-75;Inline Centrifugal;CronoLine-IL;600;190;75;Duplex Steel;Manufacturing;302000000;23;4,6;6
+WL-0016;Wilo-CronoLine-IL 285/160-45;Inline Centrifugal;CronoLine-IL;285;160;45;Cast Iron;Wastewater Treatment;108300000;8;4,3;18
+WL-0017;Wilo-CronoLine-IL 600/65-90;Inline Centrifugal;CronoLine-IL;600;65;90;Cast Iron;Manufacturing;228500000;28;4,1;6
+WL-0018;Wilo-CronoLine-IL 600/165-90;Inline Centrifugal;CronoLine-IL;600;165;90;Bronze Fitted;Food & Beverage;286800000;15;4,4;18
+WL-0019;Wilo-CronoLine-IL 600/155-90;Inline Centrifugal;CronoLine-IL;600;155;90;Stainless Steel 304;Food & Beverage;267600000;12;4,2;12
+WL-0020;Wilo-CronoLine-IL 600/80-75;Inline Centrifugal;CronoLine-IL;600;80;75;Stainless Steel 316L;Wastewater Treatment;265400000;30;4,4;6
+WL-0021;Wilo-CronoLine-IL 600/50-90;Inline Centrifugal;CronoLine-IL;600;50;90;Duplex Steel;Wastewater Treatment;357000000;6;4,4;12
+WL-0022;Wilo-CronoLine-IL 420/180-55;Inline Centrifugal;CronoLine-IL;420;180;55;Stainless Steel 304;Chemical Processing;181300000;13;3,7;18
+WL-0023;Wilo-CronoLine-IL 600/245-90;Inline Centrifugal;CronoLine-IL;600;245;90;Duplex Steel;Manufacturing;355400000;22;4,4;18
+WL-0024;Wilo-CronoLine-IL 600/95-90;Inline Centrifugal;CronoLine-IL;600;95;90;Cast Iron;Manufacturing;224000000;27;3,9;6
+WL-0025;Wilo-CronoLine-IL 600/45-90;Inline Centrifugal;CronoLine-IL;600;45;90;Stainless Steel 316L;Chemical Processing;321600000;9;3,8;6
+WL-0026;Wilo-CronoLine-IL 440/100-55;Inline Centrifugal;CronoLine-IL;440;100;55;Stainless Steel 304;Pharmaceutical;171500000;29;4,6;18
+WL-0027;Wilo-CronoLine-IL 600/65-75;Inline Centrifugal;CronoLine-IL;600;65;75;Stainless Steel 304;Wastewater Treatment;249000000;16;4,3;24
+WL-0028;Wilo-VeroLine-IPL 600/45-90;Inline Centrifugal;VeroLine-IPL;600;45;90;Bronze Fitted;Manufacturing;271100000;9;4,2;12
+WL-0029;Wilo-VeroLine-IPL 480/80-75;Inline Centrifugal;VeroLine-IPL;480;80;75;Stainless Steel 304;Wastewater Treatment;242600000;18;3,9;18
+WL-0030;Wilo-VeroLine-IPL 600/250-90;Inline Centrifugal;VeroLine-IPL;600;250;90;Duplex Steel;Chemical Processing;413700000;29;4,2;24
+WL-0031;Wilo-VeroLine-IPL 600/145-90;Inline Centrifugal;VeroLine-IPL;600;145;90;Stainless Steel 316L;Manufacturing;340100000;5;3,8;24
+WL-0032;Wilo-VeroLine-IPL 600/170-90;Inline Centrifugal;VeroLine-IPL;600;170;90;Cast Iron;Water Treatment;197400000;28;4,6;6
+WL-0033;Wilo-VeroLine-IPL 600/55-90;Inline Centrifugal;VeroLine-IPL;600;55;90;Stainless Steel 304;Wastewater Treatment;280800000;6;4,5;24
+WL-0034;Wilo-VeroLine-IPL 600/40-90;Inline Centrifugal;VeroLine-IPL;600;40;90;Duplex Steel;Water Treatment;371800000;13;3,9;24
+WL-0035;Wilo-VeroLine-IPL 600/120-90;Inline Centrifugal;VeroLine-IPL;600;120;90;Duplex Steel;Chemical Processing;335600000;17;5;18
+WL-0036;Wilo-VeroLine-IPL 300/50-45;Inline Centrifugal;VeroLine-IPL;300;50;45;Duplex Steel;Water Treatment;186000000;22;4,2;6
+WL-0037;Wilo-VeroLine-IPL 600/185-90;Inline Centrifugal;VeroLine-IPL;600;185;90;Duplex Steel;Food & Beverage;351400000;25;5;18
+WL-0038;Wilo-VeroLine-IPL 415/155-55;Inline Centrifugal;VeroLine-IPL;415;155;55;Cast Iron;Food & Beverage;133500000;14;4,3;12
+WL-0039;Wilo-VeroLine-IPL 600/140-90;Inline Centrifugal;VeroLine-IPL;600;140;90;Bronze Fitted;Water Treatment;331200000;24;4,3;18
+WL-0040;Wilo-VeroLine-IPL 600/145-90;Inline Centrifugal;VeroLine-IPL;600;145;90;Duplex Steel;Manufacturing;355300000;17;4,2;6
+WL-0041;Wilo-VeroLine-IPL 600/25-90;Inline Centrifugal;VeroLine-IPL;600;25;90;Stainless Steel 316L;Wastewater Treatment;315100000;17;4,4;12
+WL-0042;Wilo-VeroLine-IPL 600/50-90;Inline Centrifugal;VeroLine-IPL;600;50;90;Stainless Steel 304;Food & Beverage;285100000;25;4,3;12
+WL-0043;Wilo-VeroLine-IPL 600/160-90;Inline Centrifugal;VeroLine-IPL;600;160;90;Duplex Steel;Pharmaceutical;393800000;30;4;6
+WL-0044;Wilo-VeroLine-IPL 600/115-90;Inline Centrifugal;VeroLine-IPL;600;115;90;Duplex Steel;Food & Beverage;364700000;16;4,6;6
+WL-0045;Wilo-VeroLine-IPL 600/165-90;Inline Centrifugal;VeroLine-IPL;600;165;90;Cast Iron;Food & Beverage;235600000;29;4,5;18
+WL-0046;Wilo-VeroLine-IPL 355/15-55;Inline Centrifugal;VeroLine-IPL;355;15;55;Stainless Steel 304;Water Treatment;147900000;8;4;6
+WL-0047;Wilo-VeroLine-IPL 600/15-90;Inline Centrifugal;VeroLine-IPL;600;15;90;Cast Iron;Wastewater Treatment;187000000;16;3,7;6
+WL-0048;Wilo-VeroLine-IPL 440/75-75;Inline Centrifugal;VeroLine-IPL;440;75;75;Duplex Steel;Manufacturing;274300000;5;4,3;24
+WL-0049;Wilo-VeroLine-IPL 500/110-75;Inline Centrifugal;VeroLine-IPL;500;110;75;Duplex Steel;Manufacturing;308300000;9;4,1;24
+WL-0050;Wilo-VeroLine-IPL 600/145-90;Inline Centrifugal;VeroLine-IPL;600;145;90;Stainless Steel 304;Pharmaceutical;272000000;25;4,5;12
+WL-0051;Wilo-VeroLine-IPL 530/150-75;Inline Centrifugal;VeroLine-IPL;530;150;75;Stainless Steel 316L;Chemical Processing;252600000;22;4,3;18
+WL-0052;Wilo-VeroLine-IPL 485/195-75;Inline Centrifugal;VeroLine-IPL;485;195;75;Bronze Fitted;Pharmaceutical;246400000;15;4,2;6
+WL-0053;Wilo-VeroLine-IPL 600/120-90;Inline Centrifugal;VeroLine-IPL;600;120;90;Stainless Steel 304;Manufacturing;304800000;3;4,6;18
+WL-0054;Wilo-VeroLine-IPL 600/195-90;Inline Centrifugal;VeroLine-IPL;600;195;90;Cast Iron;Pharmaceutical;209800000;18;4,9;12
+WL-0055;Wilo-Atmos TERA 600/55-90;Inline Centrifugal;Atmos TERA;600;55;90;Duplex Steel;Manufacturing;354500000;1;4,6;6
+WL-0056;Wilo-Atmos TERA 600/40-90;Inline Centrifugal;Atmos TERA;600;40;90;Cast Iron;Manufacturing;205600000;3;4,3;6
+WL-0057;Wilo-Atmos TERA 600/15-90;Inline Centrifugal;Atmos TERA;600;15;90;Stainless Steel 316L;Water Treatment;301800000;17;4,3;12
+WL-0058;Wilo-Atmos TERA 600/240-90;Inline Centrifugal;Atmos TERA;600;240;90;Stainless Steel 316L;Wastewater Treatment;314200000;16;4,6;12
+WL-0059;Wilo-Atmos TERA 600/60-90;Inline Centrifugal;Atmos TERA;600;60;90;Duplex Steel;Manufacturing;388500000;24;4,2;24
+WL-0060;Wilo-Atmos TERA 195/175-30;Inline Centrifugal;Atmos TERA;195;175;30;Stainless Steel 304;Chemical Processing;107600000;26;5;24
+WL-0061;Wilo-Atmos TERA 600/135-90;Inline Centrifugal;Atmos TERA;600;135;90;Stainless Steel 304;Water Treatment;256800000;4;4,1;24
+WL-0062;Wilo-Atmos TERA 600/70-90;Inline Centrifugal;Atmos TERA;600;70;90;Stainless Steel 316L;Chemical Processing;328700000;14;4,2;24
+WL-0063;Wilo-Atmos TERA 600/115-90;Inline Centrifugal;Atmos TERA;600;115;90;Cast Iron;Wastewater Treatment;205100000;21;4,5;6
+WL-0064;Wilo-Atmos TERA 600/55-75;Inline Centrifugal;Atmos TERA;600;55;75;Cast Iron;Chemical Processing;195600000;24;3,9;18
+WL-0065;Wilo-Atmos TERA 600/85-90;Inline Centrifugal;Atmos TERA;600;85;90;Cast Iron;Manufacturing;222700000;7;4,7;12
+WL-0066;Wilo-Atmos TERA 600/115-90;Inline Centrifugal;Atmos TERA;600;115;90;Duplex Steel;Chemical Processing;388400000;5;4,6;24
+WL-0067;Wilo-Atmos TERA 600/80-90;Inline Centrifugal;Atmos TERA;600;80;90;Stainless Steel 304;Food & Beverage;299900000;15;4,3;12
+WL-0068;Wilo-Atmos TERA 600/160-75;Inline Centrifugal;Atmos TERA;600;160;75;Cast Iron;Chemical Processing;187200000;26;4,1;6
+WL-0069;Wilo-Atmos TERA 600/145-90;Inline Centrifugal;Atmos TERA;600;145;90;Cast Iron;Wastewater Treatment;199200000;18;4,5;6
+WL-0070;Wilo-Atmos TERA 510/95-75;Inline Centrifugal;Atmos TERA;510;95;75;Cast Iron;Manufacturing;193600000;6;4,9;24
+WL-0071;Wilo-Atmos TERA 465/80-75;Inline Centrifugal;Atmos TERA;465;80;75;Bronze Fitted;Chemical Processing;249300000;7;4,1;24
+WL-0072;Wilo-Atmos TERA 600/110-90;Inline Centrifugal;Atmos TERA;600;110;90;Cast Iron;Manufacturing;196100000;13;4,6;6
+WL-0073;Wilo-Atmos TERA 280/15-37;Inline Centrifugal;Atmos TERA;280;15;37;Bronze Fitted;Food & Beverage;131300000;30;4,2;24
+WL-0074;Wilo-Atmos TERA 175/190-22;Inline Centrifugal;Atmos TERA;175;190;22;Stainless Steel 316L;Chemical Processing;101800000;23;4,3;24
+WL-0075;Wilo-Atmos TERA 600/50-90;Inline Centrifugal;Atmos TERA;600;50;90;Stainless Steel 304;Manufacturing;297100000;10;4,8;12
+WL-0076;Wilo-Atmos TERA 280/45-37;Inline Centrifugal;Atmos TERA;280;45;37;Cast Iron;Pharmaceutical;99700000;24;4,5;6
+WL-0077;Wilo-Atmos TERA 600/100-90;Inline Centrifugal;Atmos TERA;600;100;90;Stainless Steel 316L;Water Treatment;349900000;2;4;24
+WL-0078;Wilo-Atmos TERA 600/120-90;Inline Centrifugal;Atmos TERA;600;120;90;Duplex Steel;Pharmaceutical;374600000;6;5;6
+WL-0079;Wilo-Atmos TERA 600/110-110;Inline Centrifugal;Atmos TERA;600;110;110;Duplex Steel;Water Treatment;400400000;28;4;12
+WL-0080;Wilo-Atmos TERA 600/15-90;Inline Centrifugal;Atmos TERA;600;15;90;Cast Iron;Pharmaceutical;188900000;3;3,7;12
+WL-0081;Wilo-Atmos TERA 600/210-90;Inline Centrifugal;Atmos TERA;600;210;90;Bronze Fitted;Water Treatment;322500000;29;4,1;12
+WL-0082;Wilo-CronoTwin-DL 600/185-90;Inline Centrifugal;CronoTwin-DL;600;185;90;Duplex Steel;Pharmaceutical;401700000;2;4,3;6
+WL-0083;Wilo-CronoTwin-DL 600/70-75;Inline Centrifugal;CronoTwin-DL;600;70;75;Bronze Fitted;Wastewater Treatment;285700000;19;4,8;18
+WL-0084;Wilo-CronoTwin-DL 600/115-75;Inline Centrifugal;CronoTwin-DL;600;115;75;Stainless Steel 316L;Manufacturing;272300000;22;4;18
+WL-0085;Wilo-CronoTwin-DL 600/100-90;Inline Centrifugal;CronoTwin-DL;600;100;90;Stainless Steel 304;Food & Beverage;274500000;13;4,5;12
+WL-0086;Wilo-CronoTwin-DL 300/130-55;Inline Centrifugal;CronoTwin-DL;300;130;55;Stainless Steel 316L;Chemical Processing;188400000;11;4,8;6
+WL-0087;Wilo-CronoTwin-DL 600/55-90;Inline Centrifugal;CronoTwin-DL;600;55;90;Cast Iron;Chemical Processing;210500000;20;4,3;6
+WL-0088;Wilo-CronoTwin-DL 600/165-90;Inline Centrifugal;CronoTwin-DL;600;165;90;Cast Iron;Pharmaceutical;214300000;7;4,4;18
+WL-0089;Wilo-CronoTwin-DL 600/180-90;Inline Centrifugal;CronoTwin-DL;600;180;90;Stainless Steel 304;Food & Beverage;264900000;29;4,5;6
+WL-0090;Wilo-CronoTwin-DL 225/185-37;Inline Centrifugal;CronoTwin-DL;225;185;37;Stainless Steel 304;Food & Beverage;122500000;10;4,3;12
+WL-0091;Wilo-CronoTwin-DL 600/100-90;Inline Centrifugal;CronoTwin-DL;600;100;90;Bronze Fitted;Pharmaceutical;320200000;23;3,8;18
+WL-0092;Wilo-CronoTwin-DL 600/145-90;Inline Centrifugal;CronoTwin-DL;600;145;90;Duplex Steel;Wastewater Treatment;404200000;17;3,7;6
+WL-0093;Wilo-CronoTwin-DL 170/90-18,5;Inline Centrifugal;CronoTwin-DL;170;90;18,5;Duplex Steel;Food & Beverage;84100000;30;4,5;6
+WL-0094;Wilo-CronoTwin-DL 370/125-55;Inline Centrifugal;CronoTwin-DL;370;125;55;Stainless Steel 304;Food & Beverage;175600000;4;4,2;6
+WL-0095;Wilo-CronoTwin-DL 405/130-55;Inline Centrifugal;CronoTwin-DL;405;130;55;Duplex Steel;Manufacturing;222100000;9;4;18
+WL-0096;Wilo-CronoTwin-DL 285/85-45;Inline Centrifugal;CronoTwin-DL;285;85;45;Duplex Steel;Manufacturing;190500000;23;3,5;18
+WL-0097;Wilo-CronoTwin-DL 510/110-75;Inline Centrifugal;CronoTwin-DL;510;110;75;Stainless Steel 304;Wastewater Treatment;249500000;21;4,2;18
+WL-0098;Wilo-CronoTwin-DL 495/130-75;Inline Centrifugal;CronoTwin-DL;495;130;75;Duplex Steel;Chemical Processing;306800000;9;3,9;6
+WL-0099;Wilo-CronoTwin-DL 265/180-45;Inline Centrifugal;CronoTwin-DL;265;180;45;Cast Iron;Wastewater Treatment;103100000;14;4,2;18
+WL-0100;Wilo-CronoTwin-DL 600/40-90;Inline Centrifugal;CronoTwin-DL;600;40;90;Cast Iron;Water Treatment;209700000;11;4,6;12
+WL-0101;Wilo-CronoTwin-DL 600/40-75;Inline Centrifugal;CronoTwin-DL;600;40;75;Stainless Steel 316L;Manufacturing;263400000;24;4,4;24
+WL-0102;Wilo-CronoTwin-DL 600/95-90;Inline Centrifugal;CronoTwin-DL;600;95;90;Duplex Steel;Wastewater Treatment;349400000;14;4,1;6
+WL-0103;Wilo-CronoTwin-DL 600/150-90;Inline Centrifugal;CronoTwin-DL;600;150;90;Cast Iron;Water Treatment;199300000;29;4,8;12
+WL-0104;Wilo-CronoTwin-DL 600/160-90;Inline Centrifugal;CronoTwin-DL;600;160;90;Duplex Steel;Water Treatment;343200000;27;4,9;18
+WL-0105;Wilo-CronoTwin-DL 445/15-75;Inline Centrifugal;CronoTwin-DL;445;15;75;Duplex Steel;Pharmaceutical;275300000;5;5;24
+WL-0106;Wilo-CronoTwin-DL 600/105-90;Inline Centrifugal;CronoTwin-DL;600;105;90;Stainless Steel 304;Water Treatment;258500000;10;4,2;18
+WL-0107;Wilo-CronoTwin-DL 530/70-75;Inline Centrifugal;CronoTwin-DL;530;70;75;Cast Iron;Food & Beverage;167900000;7;4;12
+WL-0108;Wilo-CronoTwin-DL 120/140-18,5;Inline Centrifugal;CronoTwin-DL;120;140;18,5;Cast Iron;Food & Beverage;57000000;25;4,3;24
+WL-0109;Wilo-Helix V 565/145-90;Multistage Vertical;Helix V;565;145;90;Duplex Steel;Pharmaceutical;576900000;5;4;12
+WL-0110;Wilo-Helix V 600/195-90;Multistage Vertical;Helix V;600;195;90;Stainless Steel 304;Food & Beverage;402800000;29;4;24
+WL-0111;Wilo-Helix V 485/15-55;Multistage Vertical;Helix V;485;15;55;Cast Iron;Food & Beverage;198600000;24;4,3;18
+WL-0112;Wilo-Helix V 265/145-37;Multistage Vertical;Helix V;265;145;37;Bronze Fitted;Pharmaceutical;204800000;28;4,4;12
+WL-0113;Wilo-Helix V 530/100-75;Multistage Vertical;Helix V;530;100;75;Stainless Steel 316L;Food & Beverage;374800000;26;4,2;6
+WL-0114;Wilo-Helix V 555/145-90;Multistage Vertical;Helix V;555;145;90;Bronze Fitted;Water Treatment;454700000;28;4,6;24
+WL-0115;Wilo-Helix V 120/50-22;Multistage Vertical;Helix V;120;50;22;Stainless Steel 304;Food & Beverage;106900000;27;4,2;24
+WL-0116;Wilo-Helix V 600/105-90;Multistage Vertical;Helix V;600;105;90;Stainless Steel 316L;Oil & Gas;514900000;27;4,9;12
+WL-0117;Wilo-Helix V 600/75-90;Multistage Vertical;Helix V;600;75;90;Stainless Steel 304;Water Treatment;383200000;22;4,1;12
+WL-0118;Wilo-Helix V 600/160-75;Multistage Vertical;Helix V;600;160;75;Bronze Fitted;Oil & Gas;437800000;9;4,4;6
+WL-0119;Wilo-Helix V 600/75-75;Multistage Vertical;Helix V;600;75;75;Stainless Steel 316L;Oil & Gas;418500000;21;3,9;24
+WL-0120;Wilo-Helix V 600/45-75;Multistage Vertical;Helix V;600;45;75;Duplex Steel;Oil & Gas;496000000;1;4,3;6
+WL-0121;Wilo-Helix V 600/15-90;Multistage Vertical;Helix V;600;15;90;Stainless Steel 316L;Food & Beverage;429900000;19;4,6;18
+WL-0122;Wilo-Helix V 600/130-90;Multistage Vertical;Helix V;600;130;90;Cast Iron;Water Treatment;355300000;20;4,2;24
+WL-0123;Wilo-Helix V 600/235-90;Multistage Vertical;Helix V;600;235;90;Stainless Steel 316L;Pharmaceutical;470500000;26;4,4;18
+WL-0124;Wilo-Helix V 375/50-55;Multistage Vertical;Helix V;375;50;55;Bronze Fitted;Power Plant;294100000;17;4,4;6
+WL-0125;Wilo-Helix V 600/65-90;Multistage Vertical;Helix V;600;65;90;Bronze Fitted;Power Plant;468200000;7;4;18
+WL-0126;Wilo-Helix V 600/65-90;Multistage Vertical;Helix V;600;65;90;Cast Iron;Pharmaceutical;336600000;14;4,6;6
+WL-0127;Wilo-Helix V 600/210-90;Multistage Vertical;Helix V;600;210;90;Duplex Steel;Power Plant;517800000;22;3,9;12
+WL-0128;Wilo-Helix V 600/150-90;Multistage Vertical;Helix V;600;150;90;Stainless Steel 316L;Chemical Processing;534100000;3;3,5;18
+WL-0129;Wilo-Helix V 600/30-110;Multistage Vertical;Helix V;600;30;110;Duplex Steel;Oil & Gas;539800000;22;4,3;6
+WL-0130;Wilo-Helix V 600/135-90;Multistage Vertical;Helix V;600;135;90;Stainless Steel 316L;Power Plant;453600000;10;4,5;24
+WL-0131;Wilo-Helix V 600/180-90;Multistage Vertical;Helix V;600;180;90;Stainless Steel 316L;Chemical Processing;538700000;23;4,1;18
+WL-0132;Wilo-Helix V 600/145-110;Multistage Vertical;Helix V;600;145;110;Duplex Steel;Food & Beverage;608000000;7;4,5;24
+WL-0133;Wilo-Helix V 600/70-90;Multistage Vertical;Helix V;600;70;90;Bronze Fitted;Pharmaceutical;446100000;24;3,7;12
+WL-0134;Wilo-Helix EXCEL 600/135-90;Multistage Vertical;Helix EXCEL;600;135;90;Duplex Steel;Power Plant;532700000;10;4;24
+WL-0135;Wilo-Helix EXCEL 600/15-90;Multistage Vertical;Helix EXCEL;600;15;90;Duplex Steel;Water Treatment;513500000;10;4,2;18
+WL-0136;Wilo-Helix EXCEL 600/90-90;Multistage Vertical;Helix EXCEL;600;90;90;Stainless Steel 304;Chemical Processing;424100000;26;3,7;18
+WL-0137;Wilo-Helix EXCEL 600/30-110;Multistage Vertical;Helix EXCEL;600;30;110;Bronze Fitted;Chemical Processing;460400000;15;4,3;12
+WL-0138;Wilo-Helix EXCEL 480/140-75;Multistage Vertical;Helix EXCEL;480;140;75;Duplex Steel;Chemical Processing;421100000;26;4,4;12
+WL-0139;Wilo-Helix EXCEL 600/65-90;Multistage Vertical;Helix EXCEL;600;65;90;Cast Iron;Oil & Gas;345400000;17;4,3;18
+WL-0140;Wilo-Helix EXCEL 600/15-75;Multistage Vertical;Helix EXCEL;600;15;75;Cast Iron;Food & Beverage;286600000;22;3,9;18
+WL-0141;Wilo-Helix EXCEL 600/75-90;Multistage Vertical;Helix EXCEL;600;75;90;Stainless Steel 304;Food & Beverage;422600000;5;4;6
+WL-0142;Wilo-Helix EXCEL 600/95-90;Multistage Vertical;Helix EXCEL;600;95;90;Cast Iron;Food & Beverage;341600000;16;4;6
+WL-0143;Wilo-Helix EXCEL 600/30-90;Multistage Vertical;Helix EXCEL;600;30;90;Bronze Fitted;Chemical Processing;449300000;29;4,5;12
+WL-0144;Wilo-Helix EXCEL 600/85-90;Multistage Vertical;Helix EXCEL;600;85;90;Bronze Fitted;Chemical Processing;477000000;13;4;12
+WL-0145;Wilo-Helix EXCEL 600/165-90;Multistage Vertical;Helix EXCEL;600;165;90;Stainless Steel 304;Pharmaceutical;407400000;23;4,5;6
+WL-0146;Wilo-Helix EXCEL 235/205-30;Multistage Vertical;Helix EXCEL;235;205;30;Cast Iron;Chemical Processing;134300000;8;4;12
+WL-0147;Wilo-Helix EXCEL 255/135-30;Multistage Vertical;Helix EXCEL;255;135;30;Duplex Steel;Chemical Processing;213200000;2;4,9;12
+WL-0148;Wilo-Helix EXCEL 220/65-37;Multistage Vertical;Helix EXCEL;220;65;37;Cast Iron;Chemical Processing;143400000;5;4,3;24
+WL-0149;Wilo-Helix EXCEL 600/95-90;Multistage Vertical;Helix EXCEL;600;95;90;Duplex Steel;Power Plant;544000000;20;3,7;18
+WL-0150;Wilo-Helix EXCEL 545/70-75;Multistage Vertical;Helix EXCEL;545;70;75;Bronze Fitted;Power Plant;363000000;27;4,3;24
+WL-0151;Wilo-Helix EXCEL 600/40-90;Multistage Vertical;Helix EXCEL;600;40;90;Duplex Steel;Chemical Processing;534400000;29;3,7;12
+WL-0152;Wilo-Helix EXCEL 600/130-90;Multistage Vertical;Helix EXCEL;600;130;90;Bronze Fitted;Chemical Processing;467900000;9;4,8;12
+WL-0153;Wilo-Helix EXCEL 205/20-30;Multistage Vertical;Helix EXCEL;205;20;30;Stainless Steel 316L;Power Plant;148400000;16;4,3;12
+WL-0154;Wilo-Helix EXCEL 600/110-90;Multistage Vertical;Helix EXCEL;600;110;90;Stainless Steel 316L;Chemical Processing;472200000;3;4,5;18
+WL-0155;Wilo-Helix EXCEL 430/15-55;Multistage Vertical;Helix EXCEL;430;15;55;Stainless Steel 304;Oil & Gas;261800000;11;4,7;18
+WL-0156;Wilo-Helix EXCEL 600/80-90;Multistage Vertical;Helix EXCEL;600;80;90;Duplex Steel;Water Treatment;496800000;5;4,4;12
+WL-0157;Wilo-Helix EXCEL 565/105-90;Multistage Vertical;Helix EXCEL;565;105;90;Stainless Steel 304;Chemical Processing;395200000;23;4,3;12
+WL-0158;Wilo-Helix EXCEL 600/110-90;Multistage Vertical;Helix EXCEL;600;110;90;Stainless Steel 304;Water Treatment;415900000;14;4,2;24
+WL-0159;Wilo-MVI 545/205-90;Multistage Vertical;MVI;545;205;90;Stainless Steel 316L;Power Plant;517200000;15;4,1;24
+WL-0160;Wilo-MVI 375/155-45;Multistage Vertical;MVI;375;155;45;Cast Iron;Food & Beverage;175100000;27;4,7;24
+WL-0161;Wilo-MVI 600/135-90;Multistage Vertical;MVI;600;135;90;Bronze Fitted;Power Plant;487700000;23;3,8;6
+WL-0162;Wilo-MVI 600/135-90;Multistage Vertical;MVI;600;135;90;Duplex Steel;Chemical Processing;575500000;16;4,7;6
+WL-0163;Wilo-MVI 600/15-90;Multistage Vertical;MVI;600;15;90;Stainless Steel 316L;Oil & Gas;435800000;25;4,4;24
+WL-0164;Wilo-MVI 600/105-90;Multistage Vertical;MVI;600;105;90;Bronze Fitted;Power Plant;491000000;24;4,2;12
+WL-0165;Wilo-MVI 600/140-90;Multistage Vertical;MVI;600;140;90;Bronze Fitted;Food & Beverage;438200000;9;4,3;24
+WL-0166;Wilo-MVI 290/130-37;Multistage Vertical;MVI;290;130;37;Bronze Fitted;Water Treatment;217600000;13;4,7;18
+WL-0167;Wilo-MVI 600/70-90;Multistage Vertical;MVI;600;70;90;Bronze Fitted;Pharmaceutical;426700000;6;4,4;24
+WL-0168;Wilo-MVI 600/115-90;Multistage Vertical;MVI;600;115;90;Stainless Steel 304;Power Plant;377400000;18;4,5;6
+WL-0169;Wilo-MVI 600/160-90;Multistage Vertical;MVI;600;160;90;Bronze Fitted;Power Plant;456200000;19;4,8;6
+WL-0170;Wilo-MVI 600/115-75;Multistage Vertical;MVI;600;115;75;Cast Iron;Pharmaceutical;309900000;14;3,7;12
+WL-0171;Wilo-MVI 600/80-90;Multistage Vertical;MVI;600;80;90;Bronze Fitted;Food & Beverage;426400000;2;4;18
+WL-0172;Wilo-MVI 190/25-22;Multistage Vertical;MVI;190;25;22;Bronze Fitted;Oil & Gas;129200000;7;4,5;24
+WL-0173;Wilo-MVI 600/85-90;Multistage Vertical;MVI;600;85;90;Stainless Steel 316L;Oil & Gas;489200000;25;4,5;24
+WL-0174;Wilo-MVI 600/195-75;Multistage Vertical;MVI;600;195;75;Stainless Steel 316L;Chemical Processing;414900000;9;4,3;6
+WL-0175;Wilo-MVI 545/65-75;Multistage Vertical;MVI;545;65;75;Bronze Fitted;Water Treatment;345900000;24;4,7;6
+WL-0176;Wilo-MVI 600/25-90;Multistage Vertical;MVI;600;25;90;Stainless Steel 316L;Food & Beverage;435000000;21;4,7;6
+WL-0177;Wilo-MVI 575/135-90;Multistage Vertical;MVI;575;135;90;Cast Iron;Water Treatment;338500000;8;3,8;12
+WL-0178;Wilo-MVI 455/105-75;Multistage Vertical;MVI;455;105;75;Cast Iron;Power Plant;252100000;5;4,5;12
+WL-0179;Wilo-MVI 600/120-90;Multistage Vertical;MVI;600;120;90;Stainless Steel 304;Chemical Processing;383300000;22;5;6
+WL-0180;Wilo-MVI 220/20-37;Multistage Vertical;MVI;220;20;37;Duplex Steel;Food & Beverage;207200000;15;4;18
+WL-0181;Wilo-MVI 590/110-90;Multistage Vertical;MVI;590;110;90;Stainless Steel 316L;Food & Beverage;478800000;20;4,7;6
+WL-0182;Wilo-MVI 600/120-90;Multistage Vertical;MVI;600;120;90;Stainless Steel 304;Oil & Gas;423300000;4;3,9;6
+WL-0183;Wilo-MVI 600/75-90;Multistage Vertical;MVI;600;75;90;Stainless Steel 316L;Power Plant;509900000;22;4,7;24
+WL-0184;Wilo-Helix VE 600/140-90;Multistage Vertical;Helix VE;600;140;90;Bronze Fitted;Pharmaceutical;471100000;7;4,6;6
+WL-0185;Wilo-Helix VE 600/135-90;Multistage Vertical;Helix VE;600;135;90;Duplex Steel;Pharmaceutical;520100000;27;4,4;12
+WL-0186;Wilo-Helix VE 515/125-75;Multistage Vertical;Helix VE;515;125;75;Cast Iron;Pharmaceutical;284400000;25;4,4;18
+WL-0187;Wilo-Helix VE 600/100-90;Multistage Vertical;Helix VE;600;100;90;Duplex Steel;Water Treatment;545100000;26;4,6;6
+WL-0188;Wilo-Helix VE 600/110-90;Multistage Vertical;Helix VE;600;110;90;Stainless Steel 316L;Power Plant;486900000;14;4,2;18
+WL-0189;Wilo-Helix VE 600/115-90;Multistage Vertical;Helix VE;600;115;90;Cast Iron;Power Plant;307100000;21;4,4;18
+WL-0190;Wilo-Helix VE 600/120-90;Multistage Vertical;Helix VE;600;120;90;Cast Iron;Chemical Processing;348200000;27;4,2;24
+WL-0191;Wilo-Helix VE 600/55-90;Multistage Vertical;Helix VE;600;55;90;Cast Iron;Chemical Processing;296500000;12;3,8;24
+WL-0192;Wilo-Helix VE 600/65-90;Multistage Vertical;Helix VE;600;65;90;Stainless Steel 304;Chemical Processing;431300000;6;3,6;18
+WL-0193;Wilo-Helix VE 575/210-75;Multistage Vertical;Helix VE;575;210;75;Duplex Steel;Power Plant;453600000;25;3,5;24
+WL-0194;Wilo-Helix VE 600/155-90;Multistage Vertical;Helix VE;600;155;90;Bronze Fitted;Chemical Processing;436500000;27;4,8;18
+WL-0195;Wilo-Helix VE 600/90-90;Multistage Vertical;Helix VE;600;90;90;Stainless Steel 316L;Food & Beverage;469400000;27;3,9;6
+WL-0196;Wilo-Helix VE 600/85-90;Multistage Vertical;Helix VE;600;85;90;Stainless Steel 316L;Chemical Processing;433500000;8;4,1;24
+WL-0197;Wilo-Helix VE 330/185-45;Multistage Vertical;Helix VE;330;185;45;Duplex Steel;Power Plant;328100000;22;4,7;24
+WL-0198;Wilo-Helix VE 600/85-90;Multistage Vertical;Helix VE;600;85;90;Stainless Steel 316L;Water Treatment;511300000;16;4,6;18
+WL-0199;Wilo-Helix VE 600/175-90;Multistage Vertical;Helix VE;600;175;90;Stainless Steel 304;Chemical Processing;451800000;7;4,5;18
+WL-0200;Wilo-Helix VE 390/95-55;Multistage Vertical;Helix VE;390;95;55;Stainless Steel 316L;Oil & Gas;301100000;9;4;18
+WL-0201;Wilo-Helix VE 600/15-90;Multistage Vertical;Helix VE;600;15;90;Duplex Steel;Water Treatment;490000000;17;4,1;12
+WL-0202;Wilo-Helix VE 540/155-75;Multistage Vertical;Helix VE;540;155;75;Cast Iron;Food & Beverage;266700000;24;4,3;24
+WL-0203;Wilo-Helix VE 600/15-75;Multistage Vertical;Helix VE;600;15;75;Bronze Fitted;Power Plant;397300000;25;4,6;12
+WL-0204;Wilo-Helix VE 600/125-90;Multistage Vertical;Helix VE;600;125;90;Bronze Fitted;Pharmaceutical;416400000;23;4,1;24
+WL-0205;Wilo-Helix VE 600/30-90;Multistage Vertical;Helix VE;600;30;90;Bronze Fitted;Water Treatment;441200000;3;4,6;18
+WL-0206;Wilo-Helix VE 445/100-75;Multistage Vertical;Helix VE;445;100;75;Stainless Steel 304;Chemical Processing;309200000;23;4,3;12
+WL-0207;Wilo-Helix VE 400/80-75;Multistage Vertical;Helix VE;400;80;75;Stainless Steel 316L;Pharmaceutical;400700000;19;4,5;18
+WL-0208;Wilo-Helix VE 600/70-90;Multistage Vertical;Helix VE;600;70;90;Bronze Fitted;Power Plant;461100000;17;4;18
+WL-0209;Wilo-SCP 600/60-90;Split Case;SCP;600;60;90;Duplex Steel;Power Plant;792200000;11;4,4;18
+WL-0210;Wilo-SCP 565/165-90;Split Case;SCP;565;165;90;Duplex Steel;Agriculture;827300000;10;4,6;18
+WL-0211;Wilo-SCP 600/55-90;Split Case;SCP;600;55;90;Stainless Steel 304;Manufacturing;537900000;24;4,4;12
+WL-0212;Wilo-SCP 390/65-55;Split Case;SCP;390;65;55;Stainless Steel 316L;Manufacturing;434200000;24;4,7;12
+WL-0213;Wilo-SCP 600/125-90;Split Case;SCP;600;125;90;Stainless Steel 304;Oil & Gas;566600000;24;4,3;24
+WL-0214;Wilo-SCP 600/110-90;Split Case;SCP;600;110;90;Stainless Steel 316L;Power Plant;731200000;25;4,3;18
+WL-0215;Wilo-SCP 600/190-90;Split Case;SCP;600;190;90;Cast Iron;Oil & Gas;564900000;10;3,8;12
+WL-0216;Wilo-SCP 255/220-37;Split Case;SCP;255;220;37;Stainless Steel 316L;Oil & Gas;361600000;10;4,9;6
+WL-0217;Wilo-SCP 600/150-90;Split Case;SCP;600;150;90;Stainless Steel 304;Agriculture;658700000;2;3,7;6
+WL-0218;Wilo-SCP 600/20-90;Split Case;SCP;600;20;90;Stainless Steel 316L;Oil & Gas;625800000;21;4,6;24
+WL-0219;Wilo-SCP 600/115-90;Split Case;SCP;600;115;90;Cast Iron;Manufacturing;547700000;19;4,1;18
+WL-0220;Wilo-SCP 600/80-75;Split Case;SCP;600;80;75;Duplex Steel;Mining;727900000;15;4,3;18
+WL-0221;Wilo-SCP 600/15-90;Split Case;SCP;600;15;90;Stainless Steel 304;Manufacturing;539000000;9;3,7;24
+WL-0222;Wilo-SCP 600/90-90;Split Case;SCP;600;90;90;Cast Iron;Manufacturing;478400000;13;3,9;24
+WL-0223;Wilo-SCP 600/120-90;Split Case;SCP;600;120;90;Cast Iron;Power Plant;475000000;21;4,5;6
+WL-0224;Wilo-SCP 165/115-22;Split Case;SCP;165;115;22;Stainless Steel 304;Oil & Gas;162900000;26;4,7;18
+WL-0225;Wilo-SCP 600/150-90;Split Case;SCP;600;150;90;Cast Iron;Oil & Gas;460100000;4;4,2;24
+WL-0226;Wilo-SCP 600/170-90;Split Case;SCP;600;170;90;Stainless Steel 304;Power Plant;650500000;13;4,3;24
+WL-0227;Wilo-SCP 600/110-90;Split Case;SCP;600;110;90;Duplex Steel;Agriculture;738700000;28;4,2;24
+WL-0228;Wilo-SCP 600/55-90;Split Case;SCP;600;55;90;Stainless Steel 316L;Power Plant;744300000;20;3,9;6
+WL-0229;Wilo-SCP 600/15-90;Split Case;SCP;600;15;90;Cast Iron;Oil & Gas;477200000;21;4,4;12
+WL-0230;Wilo-SCP 165/275-22;Split Case;SCP;165;275;22;Stainless Steel 316L;Manufacturing;219700000;6;4,4;12
+WL-0231;Wilo-SCP 600/35-90;Split Case;SCP;600;35;90;Stainless Steel 304;Power Plant;637200000;3;3,9;12
+WL-0232;Wilo-SCP 600/60-90;Split Case;SCP;600;60;90;Cast Iron;Mining;458400000;15;4,2;24
+WL-0233;Wilo-SCP 600/125-90;Split Case;SCP;600;125;90;Stainless Steel 316L;Manufacturing;702900000;8;4,4;18
+WL-0234;Wilo-SCP 600/115-90;Split Case;SCP;600;115;90;Stainless Steel 316L;Mining;761100000;3;4,3;12
+WL-0235;Wilo-SCP 600/170-90;Split Case;SCP;600;170;90;Stainless Steel 316L;Power Plant;700100000;22;3,9;12
+WL-0236;Wilo-SCP 485/115-75;Split Case;SCP;485;115;75;Duplex Steel;Manufacturing;683200000;18;4,2;12
+WL-0237;Wilo-Atmos TERA-SCH 600/125-90;Split Case;Atmos TERA-SCH;600;125;90;Stainless Steel 304;Agriculture;582000000;27;4,6;12
+WL-0238;Wilo-Atmos TERA-SCH 600/130-90;Split Case;Atmos TERA-SCH;600;130;90;Cast Iron;Manufacturing;496800000;6;4,5;18
+WL-0239;Wilo-Atmos TERA-SCH 600/105-90;Split Case;Atmos TERA-SCH;600;105;90;Stainless Steel 316L;Mining;673600000;4;4,3;24
+WL-0240;Wilo-Atmos TERA-SCH 320/15-45;Split Case;Atmos TERA-SCH;320;15;45;Stainless Steel 316L;Mining;342000000;9;4,8;24
+WL-0241;Wilo-Atmos TERA-SCH 535/20-90;Split Case;Atmos TERA-SCH;535;20;90;Duplex Steel;Manufacturing;742000000;20;4,7;6
+WL-0242;Wilo-Atmos TERA-SCH 145/55-22;Split Case;Atmos TERA-SCH;145;55;22;Duplex Steel;Agriculture;196100000;20;4,7;18
+WL-0243;Wilo-Atmos TERA-SCH 295/15-45;Split Case;Atmos TERA-SCH;295;15;45;Cast Iron;Manufacturing;246200000;8;5;6
+WL-0244;Wilo-Atmos TERA-SCH 600/130-90;Split Case;Atmos TERA-SCH;600;130;90;Stainless Steel 316L;Power Plant;764900000;2;4,4;12
+WL-0245;Wilo-Atmos TERA-SCH 490/80-75;Split Case;Atmos TERA-SCH;490;80;75;Duplex Steel;Power Plant;610800000;21;4,3;24
+WL-0246;Wilo-Atmos TERA-SCH 600/60-75;Split Case;Atmos TERA-SCH;600;60;75;Stainless Steel 316L;Oil & Gas;620200000;19;4,4;24
+WL-0247;Wilo-Atmos TERA-SCH 405/155-55;Split Case;Atmos TERA-SCH;405;155;55;Duplex Steel;Manufacturing;479900000;16;4,2;18
+WL-0248;Wilo-Atmos TERA-SCH 410/130-75;Split Case;Atmos TERA-SCH;410;130;75;Duplex Steel;Agriculture;575200000;11;4,4;6
+WL-0249;Wilo-Atmos TERA-SCH 250/125-37;Split Case;Atmos TERA-SCH;250;125;37;Stainless Steel 304;Agriculture;281700000;14;4,5;24
+WL-0250;Wilo-Atmos TERA-SCH 565/100-90;Split Case;Atmos TERA-SCH;565;100;90;Stainless Steel 316L;Mining;699300000;27;4,3;6
+WL-0251;Wilo-Atmos TERA-SCH 600/100-90;Split Case;Atmos TERA-SCH;600;100;90;Duplex Steel;Manufacturing;788500000;11;4,1;18
+WL-0252;Wilo-Atmos TERA-SCH 600/80-90;Split Case;Atmos TERA-SCH;600;80;90;Stainless Steel 316L;Manufacturing;655000000;25;4,6;24
+WL-0253;Wilo-Atmos TERA-SCH 505/150-75;Split Case;Atmos TERA-SCH;505;150;75;Cast Iron;Power Plant;442800000;15;4,7;24
+WL-0254;Wilo-Atmos TERA-SCH 600/50-110;Split Case;Atmos TERA-SCH;600;50;110;Cast Iron;Oil & Gas;526400000;17;3,9;18
+WL-0255;Wilo-Atmos TERA-SCH 600/120-90;Split Case;Atmos TERA-SCH;600;120;90;Duplex Steel;Mining;703200000;25;4,3;6
+WL-0256;Wilo-Atmos TERA-SCH 600/195-75;Split Case;Atmos TERA-SCH;600;195;75;Stainless Steel 304;Agriculture;538700000;18;4,4;12
+WL-0257;Wilo-Atmos TERA-SCH 600/250-90;Split Case;Atmos TERA-SCH;600;250;90;Stainless Steel 316L;Mining;725800000;29;4,9;24
+WL-0258;Wilo-Atmos TERA-SCH 600/165-90;Split Case;Atmos TERA-SCH;600;165;90;Cast Iron;Manufacturing;517900000;21;4,1;12
+WL-0259;Wilo-Atmos TERA-SCH 600/85-90;Split Case;Atmos TERA-SCH;600;85;90;Stainless Steel 304;Agriculture;561300000;18;3,9;6
+WL-0260;Wilo-Atmos TERA-SCH 560/85-75;Split Case;Atmos TERA-SCH;560;85;75;Duplex Steel;Manufacturing;704700000;8;4,3;6
+WL-0261;Wilo-Atmos TERA-SCH 600/15-90;Split Case;Atmos TERA-SCH;600;15;90;Duplex Steel;Manufacturing;751400000;21;4,6;12
+WL-0262;Wilo-Atmos TERA-SCH 350/25-55;Split Case;Atmos TERA-SCH;350;25;55;Duplex Steel;Agriculture;475800000;17;5;18
+WL-0263;Wilo-Atmos TERA-SCH 510/95-75;Split Case;Atmos TERA-SCH;510;95;75;Duplex Steel;Mining;607600000;16;4,3;12
+WL-0264;Wilo-Atmos TERA-SCH 405/135-55;Split Case;Atmos TERA-SCH;405;135;55;Duplex Steel;Power Plant;501700000;5;4,3;24
+WL-0265;Wilo-SC 495/170-75;Split Case;SC;495;170;75;Stainless Steel 304;Power Plant;560000000;17;4,5;12
+WL-0266;Wilo-SC 585/15-90;Split Case;SC;585;15;90;Cast Iron;Agriculture;510800000;25;4,6;24
+WL-0267;Wilo-SC 600/120-90;Split Case;SC;600;120;90;Stainless Steel 316L;Power Plant;649700000;9;4,2;6
+WL-0268;Wilo-SC 600/130-90;Split Case;SC;600;130;90;Stainless Steel 316L;Agriculture;685000000;27;4;24
+WL-0269;Wilo-SC 205/130-22;Split Case;SC;205;130;22;Stainless Steel 304;Mining;189800000;18;3,5;24
+WL-0270;Wilo-SC 600/100-90;Split Case;SC;600;100;90;Stainless Steel 316L;Agriculture;745700000;18;4,3;24
+WL-0271;Wilo-SC 600/90-90;Split Case;SC;600;90;90;Duplex Steel;Agriculture;825000000;28;4,2;12
+WL-0272;Wilo-SC 600/135-90;Split Case;SC;600;135;90;Stainless Steel 304;Power Plant;593400000;13;4,2;12
+WL-0273;Wilo-SC 600/45-90;Split Case;SC;600;45;90;Duplex Steel;Manufacturing;776600000;11;4,3;24
+WL-0274;Wilo-SC 600/110-110;Split Case;SC;600;110;110;Duplex Steel;Mining;938700000;22;4,2;12
+WL-0275;Wilo-SC 600/20-90;Split Case;SC;600;20;90;Duplex Steel;Manufacturing;728100000;5;4,2;18
+WL-0276;Wilo-SC 600/100-75;Split Case;SC;600;100;75;Cast Iron;Mining;441500000;4;4,1;24
+WL-0277;Wilo-SC 420/90-55;Split Case;SC;420;90;55;Cast Iron;Oil & Gas;329600000;14;4,5;12
+WL-0278;Wilo-SC 415/125-55;Split Case;SC;415;125;55;Cast Iron;Mining;359700000;26;4,3;18
+WL-0279;Wilo-SC 600/75-90;Split Case;SC;600;75;90;Stainless Steel 316L;Power Plant;716600000;23;4,2;24
+WL-0280;Wilo-SC 600/55-75;Split Case;SC;600;55;75;Cast Iron;Agriculture;443200000;28;4,6;24
+WL-0281;Wilo-SC 115/155-11;Split Case;SC;115;155;11;Stainless Steel 316L;Mining;132800000;28;4,2;6
+WL-0282;Wilo-SC 600/80-90;Split Case;SC;600;80;90;Cast Iron;Oil & Gas;445600000;21;4,6;18
+WL-0283;Wilo-SC 565/15-75;Split Case;SC;565;15;75;Stainless Steel 304;Manufacturing;503700000;14;4,4;6
+WL-0284;Wilo-SC 405/95-55;Split Case;SC;405;95;55;Cast Iron;Mining;341400000;6;5;18
+WL-0285;Wilo-SC 600/40-90;Split Case;SC;600;40;90;Cast Iron;Manufacturing;509400000;11;4;6
+WL-0286;Wilo-SC 140/70-15;Split Case;SC;140;70;15;Stainless Steel 316L;Agriculture;151300000;12;3,5;24
+WL-0287;Wilo-SC 525/160-75;Split Case;SC;525;160;75;Stainless Steel 304;Oil & Gas;496400000;17;4,9;24
+WL-0288;Wilo-SC 600/155-90;Split Case;SC;600;155;90;Stainless Steel 304;Oil & Gas;657800000;6;4,7;6
+WL-0289;Wilo-SC 600/190-90;Split Case;SC;600;190;90;Duplex Steel;Power Plant;741900000;22;4;12
+WL-0290;Wilo-SC 600/200-90;Split Case;SC;600;200;90;Duplex Steel;Power Plant;734200000;5;4,3;12
+WL-0291;Wilo-SC 600/110-90;Split Case;SC;600;110;90;Duplex Steel;Agriculture;751000000;15;4;18
+WL-0292;Wilo-SC 600/165-90;Split Case;SC;600;165;90;Cast Iron;Mining;469000000;29;4,1;18
+WL-0293;Wilo-EMU FA 600/140-90;Submersible;EMU FA;600;140;90;Stainless Steel 304;Water Treatment;352600000;15;4;18
+WL-0294;Wilo-EMU FA 330/65-55;Submersible;EMU FA;330;65;55;Stainless Steel 316L;Wastewater Treatment;245600000;23;4;18
+WL-0295;Wilo-EMU FA 600/225-90;Submersible;EMU FA;600;225;90;Duplex Steel;Mining;493800000;7;4,6;24
+WL-0296;Wilo-EMU FA 600/205-90;Submersible;EMU FA;600;205;90;Duplex Steel;Water Treatment;461300000;8;4,5;24
+WL-0297;Wilo-EMU FA 600/45-90;Submersible;EMU FA;600;45;90;Stainless Steel 316L;Mining;378200000;23;3,6;18
+WL-0298;Wilo-EMU FA 600/105-90;Submersible;EMU FA;600;105;90;Cast Iron;Wastewater Treatment;245300000;9;4,2;6
+WL-0299;Wilo-EMU FA 600/145-90;Submersible;EMU FA;600;145;90;Cast Iron;Wastewater Treatment;284300000;27;4,1;18
+WL-0300;Wilo-EMU FA 600/50-90;Submersible;EMU FA;600;50;90;Stainless Steel 304;Mining;347600000;8;4,3;12
+WL-0301;Wilo-EMU FA 600/170-90;Submersible;EMU FA;600;170;90;Stainless Steel 316L;Agriculture;440300000;21;3,8;6
+WL-0302;Wilo-EMU FA 600/90-90;Submersible;EMU FA;600;90;90;Cast Iron;Mining;244800000;26;4,5;24
+WL-0303;Wilo-EMU FA 600/100-90;Submersible;EMU FA;600;100;90;Cast Iron;Mining;265400000;24;4,9;12
+WL-0304;Wilo-EMU FA 195/100-37;Submersible;EMU FA;195;100;37;Cast Iron;Mining;114700000;11;4,5;24
+WL-0305;Wilo-EMU FA 600/140-90;Submersible;EMU FA;600;140;90;Stainless Steel 304;Agriculture;310200000;5;3,9;18
+WL-0306;Wilo-EMU FA 600/40-90;Submersible;EMU FA;600;40;90;Stainless Steel 316L;Agriculture;359500000;9;4,2;24
+WL-0307;Wilo-EMU FA 600/120-90;Submersible;EMU FA;600;120;90;Stainless Steel 316L;Mining;382600000;26;4,5;6
+WL-0308;Wilo-EMU FA 600/185-90;Submersible;EMU FA;600;185;90;Duplex Steel;Water Treatment;412800000;5;3,9;12
+WL-0309;Wilo-EMU FA 600/75-90;Submersible;EMU FA;600;75;90;Duplex Steel;Mining;458900000;3;4,2;24
+WL-0310;Wilo-EMU FA 230/185-45;Submersible;EMU FA;230;185;45;Cast Iron;Mining;121800000;18;4;6
+WL-0311;Wilo-EMU FA 265/175-37;Submersible;EMU FA;265;175;37;Duplex Steel;Mining;208100000;22;5;18
+WL-0312;Wilo-EMU FA 600/55-90;Submersible;EMU FA;600;55;90;Duplex Steel;Mining;431500000;4;5;12
+WL-0313;Wilo-EMU FA 600/135-90;Submersible;EMU FA;600;135;90;Duplex Steel;Water Treatment;435700000;20;4,1;18
+WL-0314;Wilo-EMU FA 600/60-90;Submersible;EMU FA;600;60;90;Stainless Steel 304;Water Treatment;334900000;21;4,5;24
+WL-0315;Wilo-EMU KRT 360/85-55;Submersible;EMU KRT;360;85;55;Stainless Steel 316L;Wastewater Treatment;221400000;4;3,6;12
+WL-0316;Wilo-EMU KRT 600/15-90;Submersible;EMU KRT;600;15;90;Cast Iron;Water Treatment;248300000;10;4,5;24
+WL-0317;Wilo-EMU KRT 600/130-90;Submersible;EMU KRT;600;130;90;Cast Iron;Water Treatment;281500000;8;4;12
+WL-0318;Wilo-EMU KRT 600/15-90;Submersible;EMU KRT;600;15;90;Duplex Steel;Wastewater Treatment;404800000;12;4,4;24
+WL-0319;Wilo-EMU KRT 600/15-90;Submersible;EMU KRT;600;15;90;Stainless Steel 304;Wastewater Treatment;312100000;21;4,2;6
+WL-0320;Wilo-EMU KRT 600/85-90;Submersible;EMU KRT;600;85;90;Duplex Steel;Wastewater Treatment;453500000;9;4,4;6
+WL-0321;Wilo-EMU KRT 350/15-55;Submersible;EMU KRT;350;15;55;Stainless Steel 316L;Agriculture;226200000;15;4,9;24
+WL-0322;Wilo-EMU KRT 600/145-90;Submersible;EMU KRT;600;145;90;Stainless Steel 304;Mining;319500000;4;3,9;18
+WL-0323;Wilo-EMU KRT 600/170-90;Submersible;EMU KRT;600;170;90;Stainless Steel 316L;Water Treatment;382300000;13;4,2;18
+WL-0324;Wilo-EMU KRT 600/85-90;Submersible;EMU KRT;600;85;90;Stainless Steel 304;Water Treatment;354400000;28;4;24
+WL-0325;Wilo-EMU KRT 600/80-90;Submersible;EMU KRT;600;80;90;Cast Iron;Agriculture;234500000;21;4;6
+WL-0326;Wilo-EMU KRT 600/30-75;Submersible;EMU KRT;600;30;75;Cast Iron;Mining;241900000;8;3,9;12
+WL-0327;Wilo-EMU KRT 600/130-75;Submersible;EMU KRT;600;130;75;Stainless Steel 304;Water Treatment;318200000;27;4,1;12
+WL-0328;Wilo-EMU KRT 370/130-45;Submersible;EMU KRT;370;130;45;Stainless Steel 304;Agriculture;208700000;11;5;12
+WL-0329;Wilo-EMU KRT 245/165-30;Submersible;EMU KRT;245;165;30;Cast Iron;Mining;112700000;28;4;12
+WL-0330;Wilo-EMU KRT 600/255-90;Submersible;EMU KRT;600;255;90;Stainless Steel 304;Mining;373700000;26;4,4;12
+WL-0331;Wilo-EMU KRT 460/105-55;Submersible;EMU KRT;460;105;55;Cast Iron;Water Treatment;163200000;5;3,5;6
+WL-0332;Wilo-EMU KRT 600/220-90;Submersible;EMU KRT;600;220;90;Stainless Steel 316L;Agriculture;412500000;19;3,9;18
+WL-0333;Wilo-EMU KRT 600/55-90;Submersible;EMU KRT;600;55;90;Cast Iron;Agriculture;233200000;9;4,8;6
+WL-0334;Wilo-EMU KRT 540/135-75;Submersible;EMU KRT;540;135;75;Stainless Steel 304;Wastewater Treatment;285300000;17;4,1;6
+WL-0335;Wilo-EMU KRT 600/195-90;Submersible;EMU KRT;600;195;90;Cast Iron;Wastewater Treatment;290600000;15;4,2;18
+WL-0336;Wilo-EMU KRT 600/130-90;Submersible;EMU KRT;600;130;90;Cast Iron;Wastewater Treatment;278000000;17;4,3;12
+WL-0337;Wilo-Drain TMW 600/95-90;Submersible;Drain TMW;600;95;90;Cast Iron;Mining;239600000;15;5;6
+WL-0338;Wilo-Drain TMW 600/130-90;Submersible;Drain TMW;600;130;90;Cast Iron;Wastewater Treatment;288100000;28;4,1;24
+WL-0339;Wilo-Drain TMW 600/15-90;Submersible;Drain TMW;600;15;90;Duplex Steel;Water Treatment;422700000;16;4,1;24
+WL-0340;Wilo-Drain TMW 600/130-90;Submersible;Drain TMW;600;130;90;Cast Iron;Water Treatment;265400000;11;4,2;12
+WL-0341;Wilo-Drain TMW 600/45-90;Submersible;Drain TMW;600;45;90;Cast Iron;Agriculture;273400000;9;4,7;18
+WL-0342;Wilo-Drain TMW 600/125-90;Submersible;Drain TMW;600;125;90;Duplex Steel;Mining;468400000;15;4,1;24
+WL-0343;Wilo-Drain TMW 415/125-75;Submersible;Drain TMW;415;125;75;Cast Iron;Water Treatment;193500000;28;3,9;12
+WL-0344;Wilo-Drain TMW 600/110-90;Submersible;Drain TMW;600;110;90;Duplex Steel;Wastewater Treatment;424600000;29;4,3;12
+WL-0345;Wilo-Drain TMW 380/125-55;Submersible;Drain TMW;380;125;55;Duplex Steel;Mining;257300000;27;4,6;24
+WL-0346;Wilo-Drain TMW 600/80-90;Submersible;Drain TMW;600;80;90;Duplex Steel;Wastewater Treatment;460200000;24;4,4;6
+WL-0347;Wilo-Drain TMW 600/75-90;Submersible;Drain TMW;600;75;90;Stainless Steel 316L;Wastewater Treatment;412000000;11;4,2;18
+WL-0348;Wilo-Drain TMW 600/120-90;Submersible;Drain TMW;600;120;90;Stainless Steel 316L;Agriculture;419300000;22;3,6;24
+WL-0349;Wilo-Drain TMW 160/60-30;Submersible;Drain TMW;160;60;30;Cast Iron;Water Treatment;81900000;27;4,3;6
+WL-0350;Wilo-Drain TMW 600/45-90;Submersible;Drain TMW;600;45;90;Cast Iron;Wastewater Treatment;247400000;4;4,2;18
+WL-0351;Wilo-Drain TMW 600/80-90;Submersible;Drain TMW;600;80;90;Stainless Steel 304;Water Treatment;326400000;19;4,8;18
+WL-0352;Wilo-Drain TMW 600/170-90;Submersible;Drain TMW;600;170;90;Cast Iron;Wastewater Treatment;247600000;12;4,3;24
+WL-0353;Wilo-Drain TMW 350/170-55;Submersible;Drain TMW;350;170;55;Cast Iron;Mining;157100000;20;4,4;18
+WL-0354;Wilo-Drain TMW 600/130-90;Submersible;Drain TMW;600;130;90;Stainless Steel 316L;Water Treatment;406800000;19;4,6;12
+WL-0355;Wilo-Drain TMW 600/215-90;Submersible;Drain TMW;600;215;90;Stainless Steel 304;Wastewater Treatment;320600000;8;4,1;6
+WL-0356;Wilo-Drain TMW 600/20-90;Submersible;Drain TMW;600;20;90;Stainless Steel 316L;Mining;391600000;4;4,5;18
+WL-0357;Wilo-Drain TMW 600/85-90;Submersible;Drain TMW;600;85;90;Stainless Steel 304;Wastewater Treatment;310700000;28;5;6
+WL-0358;Wilo-Drain TMW 230/15-37;Submersible;Drain TMW;230;15;37;Stainless Steel 316L;Water Treatment;150100000;6;4,7;18
+WL-0359;Wilo-Rexa FIT 585/90-90;Submersible;Rexa FIT;585;90;90;Stainless Steel 316L;Mining;369800000;12;4,4;6
+WL-0360;Wilo-Rexa FIT 600/145-90;Submersible;Rexa FIT;600;145;90;Stainless Steel 304;Agriculture;365700000;19;4,4;24
+WL-0361;Wilo-Rexa FIT 425/165-55;Submersible;Rexa FIT;425;165;55;Cast Iron;Agriculture;189800000;24;4,6;6
+WL-0362;Wilo-Rexa FIT 600/60-90;Submersible;Rexa FIT;600;60;90;Cast Iron;Agriculture;243400000;13;4,3;24
+WL-0363;Wilo-Rexa FIT 600/80-90;Submersible;Rexa FIT;600;80;90;Duplex Steel;Mining;409500000;6;3,7;18
+WL-0364;Wilo-Rexa FIT 600/45-90;Submersible;Rexa FIT;600;45;90;Stainless Steel 316L;Mining;390000000;25;4,6;6
+WL-0365;Wilo-Rexa FIT 600/85-90;Submersible;Rexa FIT;600;85;90;Cast Iron;Agriculture;236500000;6;4,7;6
+WL-0366;Wilo-Rexa FIT 600/165-90;Submersible;Rexa FIT;600;165;90;Cast Iron;Mining;284700000;15;4,5;24
+WL-0367;Wilo-Rexa FIT 600/160-75;Submersible;Rexa FIT;600;160;75;Duplex Steel;Wastewater Treatment;376600000;14;4,5;18
+WL-0368;Wilo-Rexa FIT 600/75-90;Submersible;Rexa FIT;600;75;90;Stainless Steel 304;Water Treatment;331800000;12;4,4;24
+WL-0369;Wilo-Rexa FIT 600/175-90;Submersible;Rexa FIT;600;175;90;Cast Iron;Mining;254000000;22;4,6;24
+WL-0370;Wilo-Rexa FIT 415/100-55;Submersible;Rexa FIT;415;100;55;Stainless Steel 316L;Water Treatment;261200000;8;3,5;24
+WL-0371;Wilo-Rexa FIT 600/130-90;Submersible;Rexa FIT;600;130;90;Cast Iron;Water Treatment;270700000;7;4,9;18
+WL-0372;Wilo-Rexa FIT 600/85-90;Submersible;Rexa FIT;600;85;90;Stainless Steel 304;Agriculture;306300000;25;3,5;18
+WL-0373;Wilo-Rexa FIT 600/55-90;Submersible;Rexa FIT;600;55;90;Stainless Steel 316L;Mining;392800000;4;4,3;6
+WL-0374;Wilo-Rexa FIT 440/55-55;Submersible;Rexa FIT;440;55;55;Duplex Steel;Wastewater Treatment;249200000;6;4,3;12
+WL-0375;Wilo-Rexa FIT 600/50-90;Submersible;Rexa FIT;600;50;90;Duplex Steel;Agriculture;423000000;17;4,8;18
+WL-0376;Wilo-Rexa FIT 600/85-90;Submersible;Rexa FIT;600;85;90;Cast Iron;Wastewater Treatment;265200000;28;4,2;6
+WL-0377;Wilo-Rexa FIT 600/50-90;Submersible;Rexa FIT;600;50;90;Duplex Steel;Water Treatment;421400000;15;4,3;6
+WL-0378;Wilo-Rexa FIT 600/60-90;Submersible;Rexa FIT;600;60;90;Stainless Steel 316L;Wastewater Treatment;378200000;19;3,6;24
+WL-0379;Wilo-Rexa FIT 600/130-75;Submersible;Rexa FIT;600;130;75;Duplex Steel;Mining;411000000;4;4,6;24
+WL-0380;Wilo-Rexa FIT 600/60-90;Submersible;Rexa FIT;600;60;90;Cast Iron;Mining;250700000;6;4,4;24
+WL-0381;Wilo-CO-Helix V 160/55-22;Booster System;CO-Helix V;160;55;22;Duplex Steel;Power Plant;237500000;3;4;24
+WL-0382;Wilo-CO-Helix V 600/85-90;Booster System;CO-Helix V;600;85;90;Stainless Steel 304;Oil & Gas;595700000;14;4,7;24
+WL-0383;Wilo-CO-Helix V 600/100-90;Booster System;CO-Helix V;600;100;90;Duplex Steel;Oil & Gas;882100000;13;4,4;18
+WL-0384;Wilo-CO-Helix V 600/135-90;Booster System;CO-Helix V;600;135;90;Duplex Steel;Power Plant;811500000;8;4;18
+WL-0385;Wilo-CO-Helix V 600/85-90;Booster System;CO-Helix V;600;85;90;Stainless Steel 304;Oil & Gas;622100000;17;3,6;6
+WL-0386;Wilo-CO-Helix V 185/140-30;Booster System;CO-Helix V;185;140;30;Duplex Steel;Oil & Gas;338300000;29;4,8;18
+WL-0387;Wilo-CO-Helix V 535/205-75;Booster System;CO-Helix V;535;205;75;Stainless Steel 316L;Oil & Gas;636700000;8;4,6;6
+WL-0388;Wilo-CO-Helix V 600/185-90;Booster System;CO-Helix V;600;185;90;Stainless Steel 304;Power Plant;681500000;7;4,5;12
+WL-0389;Wilo-CO-Helix V 600/145-90;Booster System;CO-Helix V;600;145;90;Duplex Steel;Oil & Gas;854800000;25;3,7;6
+WL-0390;Wilo-CO-Helix V 600/145-90;Booster System;CO-Helix V;600;145;90;Stainless Steel 304;Power Plant;584900000;15;4,8;24
+WL-0391;Wilo-CO-Helix V 370/85-55;Booster System;CO-Helix V;370;85;55;Duplex Steel;Power Plant;499200000;28;4,6;18
+WL-0392;Wilo-CO-Helix V 600/90-90;Booster System;CO-Helix V;600;90;90;Stainless Steel 304;Power Plant;561200000;3;4,7;24
+WL-0393;Wilo-CO-Helix V 230/50-37;Booster System;CO-Helix V;230;50;37;Stainless Steel 316L;Power Plant;292600000;26;4,9;18
+WL-0394;Wilo-CO-Helix V 600/70-90;Booster System;CO-Helix V;600;70;90;Duplex Steel;Oil & Gas;772200000;12;3,9;6
+WL-0395;Wilo-CO-Helix V 600/100-90;Booster System;CO-Helix V;600;100;90;Stainless Steel 316L;Power Plant;670000000;15;4,3;6
+WL-0396;Wilo-CO-Helix V 370/75-45;Booster System;CO-Helix V;370;75;45;Stainless Steel 304;Power Plant;360600000;27;4,2;18
+WL-0397;Wilo-CO-Helix V 600/75-90;Booster System;CO-Helix V;600;75;90;Stainless Steel 304;Oil & Gas;669400000;20;4,4;24
+WL-0398;Wilo-CO-Helix V 260/15-45;Booster System;CO-Helix V;260;15;45;Stainless Steel 316L;Oil & Gas;322200000;15;3,6;12
+WL-0399;Wilo-CO-Helix V 600/230-90;Booster System;CO-Helix V;600;230;90;Stainless Steel 316L;Power Plant;766700000;17;4,5;12
+WL-0400;Wilo-CO-Helix V 380/45-55;Booster System;CO-Helix V;380;45;55;Stainless Steel 304;Power Plant;411700000;4;4;18
+WL-0401;Wilo-CO-Helix V 180/140-22;Booster System;CO-Helix V;180;140;22;Duplex Steel;Oil & Gas;259100000;17;4,4;12
+WL-0402;Wilo-CO-Helix V 600/240-90;Booster System;CO-Helix V;600;240;90;Stainless Steel 304;Oil & Gas;657900000;23;4,6;24
+WL-0403;Wilo-CO-Helix V 335/125-45;Booster System;CO-Helix V;335;125;45;Stainless Steel 316L;Oil & Gas;400800000;12;4,3;18
+WL-0404;Wilo-CO-Helix V 265/110-45;Booster System;CO-Helix V;265;110;45;Stainless Steel 316L;Power Plant;402200000;14;4,9;18
+WL-0405;Wilo-CO-Helix V 600/75-90;Booster System;CO-Helix V;600;75;90;Duplex Steel;Oil & Gas;816100000;26;4,2;18
+WL-0406;Wilo-CO-Helix V 600/25-90;Booster System;CO-Helix V;600;25;90;Stainless Steel 304;Power Plant;642100000;4;4,4;24
+WL-0407;Wilo-SiBoost Smart Helix EXCEL 215/175-30;Booster System;SiBoost Smart Helix EXCEL;215;175;30;Stainless Steel 316L;Power Plant;306600000;24;4,1;12
+WL-0408;Wilo-SiBoost Smart Helix EXCEL 600/15-110;Booster System;SiBoost Smart Helix EXCEL;600;15;110;Stainless Steel 316L;Oil & Gas;888400000;19;4,2;12
+WL-0409;Wilo-SiBoost Smart Helix EXCEL 600/115-90;Booster System;SiBoost Smart Helix EXCEL;600;115;90;Stainless Steel 316L;Power Plant;754500000;21;4,5;24
+WL-0410;Wilo-SiBoost Smart Helix EXCEL 600/85-90;Booster System;SiBoost Smart Helix EXCEL;600;85;90;Stainless Steel 304;Oil & Gas;613900000;10;4,7;24
+WL-0411;Wilo-SiBoost Smart Helix EXCEL 600/110-90;Booster System;SiBoost Smart Helix EXCEL;600;110;90;Duplex Steel;Power Plant;898400000;27;4,2;12
+WL-0412;Wilo-SiBoost Smart Helix EXCEL 600/165-90;Booster System;SiBoost Smart Helix EXCEL;600;165;90;Duplex Steel;Oil & Gas;858900000;21;4;24
+WL-0413;Wilo-SiBoost Smart Helix EXCEL 545/150-90;Booster System;SiBoost Smart Helix EXCEL;545;150;90;Duplex Steel;Power Plant;821800000;1;4,5;18
+WL-0414;Wilo-SiBoost Smart Helix EXCEL 600/140-90;Booster System;SiBoost Smart Helix EXCEL;600;140;90;Stainless Steel 316L;Oil & Gas;791000000;7;4,1;18
+WL-0415;Wilo-SiBoost Smart Helix EXCEL 600/140-90;Booster System;SiBoost Smart Helix EXCEL;600;140;90;Stainless Steel 316L;Oil & Gas;688900000;8;4,7;12
+WL-0416;Wilo-SiBoost Smart Helix EXCEL 465/95-55;Booster System;SiBoost Smart Helix EXCEL;465;95;55;Stainless Steel 304;Oil & Gas;376800000;10;3,7;6
+WL-0417;Wilo-SiBoost Smart Helix EXCEL 475/80-55;Booster System;SiBoost Smart Helix EXCEL;475;80;55;Duplex Steel;Oil & Gas;527900000;22;4,4;18
+WL-0418;Wilo-SiBoost Smart Helix EXCEL 600/100-90;Booster System;SiBoost Smart Helix EXCEL;600;100;90;Duplex Steel;Oil & Gas;788900000;20;4,3;24
+WL-0419;Wilo-SiBoost Smart Helix EXCEL 245/50-30;Booster System;SiBoost Smart Helix EXCEL;245;50;30;Stainless Steel 304;Oil & Gas;235600000;6;4;12
+WL-0420;Wilo-SiBoost Smart Helix EXCEL 600/140-90;Booster System;SiBoost Smart Helix EXCEL;600;140;90;Duplex Steel;Power Plant;871600000;2;4,5;24
+WL-0421;Wilo-SiBoost Smart Helix EXCEL 600/25-90;Booster System;SiBoost Smart Helix EXCEL;600;25;90;Stainless Steel 316L;Oil & Gas;697900000;15;4,4;18
+WL-0422;Wilo-SiBoost Smart Helix EXCEL 450/120-75;Booster System;SiBoost Smart Helix EXCEL;450;120;75;Duplex Steel;Power Plant;703600000;8;4,7;12
+WL-0423;Wilo-SiBoost Smart Helix EXCEL 600/170-90;Booster System;SiBoost Smart Helix EXCEL;600;170;90;Stainless Steel 316L;Power Plant;719900000;29;4,1;12
+WL-0424;Wilo-SiBoost Smart Helix EXCEL 600/130-90;Booster System;SiBoost Smart Helix EXCEL;600;130;90;Stainless Steel 316L;Power Plant;750800000;15;4,8;18
+WL-0425;Wilo-SiBoost Smart Helix EXCEL 600/65-90;Booster System;SiBoost Smart Helix EXCEL;600;65;90;Stainless Steel 316L;Power Plant;698100000;6;3,7;12
+WL-0426;Wilo-SiBoost Smart Helix EXCEL 600/40-90;Booster System;SiBoost Smart Helix EXCEL;600;40;90;Duplex Steel;Oil & Gas;805200000;28;4,3;18
+WL-0427;Wilo-SiBoost Smart Helix EXCEL 600/105-90;Booster System;SiBoost Smart Helix EXCEL;600;105;90;Stainless Steel 304;Power Plant;594600000;28;4;18
+WL-0428;Wilo-SiBoost Smart Helix EXCEL 600/50-90;Booster System;SiBoost Smart Helix EXCEL;600;50;90;Duplex Steel;Oil & Gas;814700000;23;4,1;6
+WL-0429;Wilo-SiBoost Smart Helix EXCEL 600/110-90;Booster System;SiBoost Smart Helix EXCEL;600;110;90;Stainless Steel 316L;Oil & Gas;724000000;25;4,3;12
+WL-0430;Wilo-SiBoost Smart Helix EXCEL 600/215-90;Booster System;SiBoost Smart Helix EXCEL;600;215;90;Stainless Steel 316L;Power Plant;803100000;29;3,8;12
+WL-0431;Wilo-SiBoost Smart Helix EXCEL 600/170-90;Booster System;SiBoost Smart Helix EXCEL;600;170;90;Stainless Steel 316L;Oil & Gas;728400000;30;4,4;12
+WL-0432;Wilo-SiBoost Smart Helix EXCEL 600/80-90;Booster System;SiBoost Smart Helix EXCEL;600;80;90;Stainless Steel 316L;Power Plant;713200000;30;4,3;6
+WL-0433;Wilo-Economy CO 600/135-90;Booster System;Economy CO;600;135;90;Stainless Steel 316L;Oil & Gas;705600000;13;3,5;18
+WL-0434;Wilo-Economy CO 290/15-45;Booster System;Economy CO;290;15;45;Stainless Steel 304;Power Plant;317800000;3;4,2;18
+WL-0435;Wilo-Economy CO 600/30-90;Booster System;Economy CO;600;30;90;Stainless Steel 304;Oil & Gas;565700000;11;4,3;6
+WL-0436;Wilo-Economy CO 600/195-90;Booster System;Economy CO;600;195;90;Duplex Steel;Power Plant;920900000;26;4,2;12
+WL-0437;Wilo-Economy CO 445/165-55;Booster System;Economy CO;445;165;55;Stainless Steel 304;Oil & Gas;441300000;10;4,9;24
+WL-0438;Wilo-Economy CO 600/90-90;Booster System;Economy CO;600;90;90;Duplex Steel;Oil & Gas;783400000;25;3,8;24
+WL-0439;Wilo-Economy CO 600/35-90;Booster System;Economy CO;600;35;90;Stainless Steel 316L;Oil & Gas;651100000;29;4,1;6
+WL-0440;Wilo-Economy CO 265/30-37;Booster System;Economy CO;265;30;37;Stainless Steel 304;Power Plant;251000000;7;3,5;12
+WL-0441;Wilo-Economy CO 600/145-90;Booster System;Economy CO;600;145;90;Duplex Steel;Power Plant;958700000;4;4,2;18
+WL-0442;Wilo-Economy CO 600/110-90;Booster System;Economy CO;600;110;90;Stainless Steel 304;Power Plant;652300000;4;4;6
+WL-0443;Wilo-Economy CO 600/100-90;Booster System;Economy CO;600;100;90;Stainless Steel 304;Power Plant;569300000;21;4,5;24
+WL-0444;Wilo-Economy CO 600/55-75;Booster System;Economy CO;600;55;75;Stainless Steel 304;Oil & Gas;521700000;27;4,4;24
+WL-0445;Wilo-Economy CO 600/100-90;Booster System;Economy CO;600;100;90;Duplex Steel;Oil & Gas;911000000;21;4,4;12
+WL-0446;Wilo-Economy CO 145/40-18,5;Booster System;Economy CO;145;40;18,5;Duplex Steel;Oil & Gas;181900000;10;4,2;24
+WL-0447;Wilo-Economy CO 600/15-90;Booster System;Economy CO;600;15;90;Stainless Steel 304;Power Plant;543500000;8;4,9;24
+WL-0448;Wilo-Economy CO 600/100-90;Booster System;Economy CO;600;100;90;Stainless Steel 304;Oil & Gas;582300000;17;4,1;18
+WL-0449;Wilo-Economy CO 600/80-90;Booster System;Economy CO;600;80;90;Stainless Steel 304;Oil & Gas;621000000;13;4,5;24
+WL-0450;Wilo-Economy CO 600/75-90;Booster System;Economy CO;600;75;90;Stainless Steel 304;Power Plant;631600000;12;4,9;18
+WL-0451;Wilo-Economy CO 470/20-75;Booster System;Economy CO;470;20;75;Duplex Steel;Oil & Gas;682000000;12;4,5;6
+WL-0452;Wilo-Economy CO 600/135-90;Booster System;Economy CO;600;135;90;Stainless Steel 316L;Oil & Gas;817800000;24;4,2;6
+WL-0453;Wilo-Economy CO 245/110-45;Booster System;Economy CO;245;110;45;Duplex Steel;Power Plant;392600000;5;4,3;6
+WL-0454;Wilo-Economy CO 600/60-110;Booster System;Economy CO;600;60;110;Stainless Steel 316L;Power Plant;829200000;27;3,6;12
+WL-0455;Wilo-Economy CO 285/80-37;Booster System;Economy CO;285;80;37;Duplex Steel;Power Plant;418000000;23;4,5;24
+WL-0456;Wilo-Economy CO 600/115-90;Booster System;Economy CO;600;115;90;Duplex Steel;Oil & Gas;883800000;26;3,7;12
+WL-0457;Wilo-Economy CO 600/60-90;Booster System;Economy CO;600;60;90;Stainless Steel 304;Power Plant;638000000;2;4,3;18
+WL-0458;Wilo-Economy CO 600/25-90;Booster System;Economy CO;600;25;90;Stainless Steel 304;Oil & Gas;615400000;26;4,6;12
+WL-0459;Wilo-Rexa FIT 415/125-75;Sewage Pump;Rexa FIT;415;125;75;Cast Iron;Wastewater Treatment;239800000;30;4,4;18
+WL-0460;Wilo-Rexa FIT 600/85-90;Sewage Pump;Rexa FIT;600;85;90;Duplex Steel;Wastewater Treatment;417200000;27;3,9;24
+WL-0461;Wilo-Rexa FIT 600/70-90;Sewage Pump;Rexa FIT;600;70;90;Stainless Steel 304;Mining;360800000;25;4,4;12
+WL-0462;Wilo-Rexa FIT 600/70-90;Sewage Pump;Rexa FIT;600;70;90;Stainless Steel 304;Wastewater Treatment;350600000;28;4,4;6
+WL-0463;Wilo-Rexa FIT 600/85-90;Sewage Pump;Rexa FIT;600;85;90;Duplex Steel;Wastewater Treatment;432300000;9;4,8;6
+WL-0464;Wilo-Rexa FIT 600/105-90;Sewage Pump;Rexa FIT;600;105;90;Stainless Steel 304;Wastewater Treatment;360400000;29;4,5;24
+WL-0465;Wilo-Rexa FIT 520/145-75;Sewage Pump;Rexa FIT;520;145;75;Duplex Steel;Wastewater Treatment;396800000;29;4,6;24
+WL-0466;Wilo-Rexa FIT 510/60-75;Sewage Pump;Rexa FIT;510;60;75;Stainless Steel 304;Mining;278700000;16;4,3;24
+WL-0467;Wilo-Rexa FIT 600/140-90;Sewage Pump;Rexa FIT;600;140;90;Stainless Steel 304;Wastewater Treatment;371100000;26;4,5;6
+WL-0468;Wilo-Rexa FIT 600/255-90;Sewage Pump;Rexa FIT;600;255;90;Duplex Steel;Wastewater Treatment;456700000;3;4,6;24
+WL-0469;Wilo-Rexa FIT 600/155-90;Sewage Pump;Rexa FIT;600;155;90;Duplex Steel;Mining;453400000;18;4,8;18
+WL-0470;Wilo-Rexa FIT 600/20-90;Sewage Pump;Rexa FIT;600;20;90;Stainless Steel 304;Mining;384500000;3;3,9;18
+WL-0471;Wilo-Rexa FIT 110/110-18,5;Sewage Pump;Rexa FIT;110;110;18,5;Duplex Steel;Wastewater Treatment;100200000;10;4,4;24
+WL-0472;Wilo-Rexa FIT 600/140-90;Sewage Pump;Rexa FIT;600;140;90;Duplex Steel;Wastewater Treatment;485000000;6;4,4;24
+WL-0473;Wilo-Rexa FIT 215/115-30;Sewage Pump;Rexa FIT;215;115;30;Stainless Steel 304;Wastewater Treatment;127200000;2;4,3;18
+WL-0474;Wilo-Rexa FIT 600/15-90;Sewage Pump;Rexa FIT;600;15;90;Duplex Steel;Wastewater Treatment;413100000;9;3,9;6
+WL-0475;Wilo-Rexa FIT 600/30-90;Sewage Pump;Rexa FIT;600;30;90;Cast Iron;Wastewater Treatment;283900000;12;4,5;12
+WL-0476;Wilo-Rexa FIT 380/25-55;Sewage Pump;Rexa FIT;380;25;55;Cast Iron;Mining;167400000;28;4,5;24
+WL-0477;Wilo-Rexa FIT 600/80-90;Sewage Pump;Rexa FIT;600;80;90;Cast Iron;Mining;299300000;3;4,8;12
+WL-0478;Wilo-Rexa FIT 555/110-90;Sewage Pump;Rexa FIT;555;110;90;Duplex Steel;Wastewater Treatment;407700000;12;4,4;24
+WL-0479;Wilo-Rexa FIT 600/180-90;Sewage Pump;Rexa FIT;600;180;90;Duplex Steel;Mining;439200000;20;3,8;12
+WL-0480;Wilo-Rexa FIT 600/145-90;Sewage Pump;Rexa FIT;600;145;90;Duplex Steel;Wastewater Treatment;452700000;12;4;18
+WL-0481;Wilo-Rexa FIT 600/85-90;Sewage Pump;Rexa FIT;600;85;90;Stainless Steel 304;Mining;383900000;19;4,6;12
+WL-0482;Wilo-EMU Sewage 600/95-90;Sewage Pump;EMU Sewage;600;95;90;Duplex Steel;Wastewater Treatment;475600000;13;4,6;18
+WL-0483;Wilo-EMU Sewage 600/60-90;Sewage Pump;EMU Sewage;600;60;90;Duplex Steel;Wastewater Treatment;423200000;8;3,9;6
+WL-0484;Wilo-EMU Sewage 600/155-90;Sewage Pump;EMU Sewage;600;155;90;Cast Iron;Mining;302200000;16;4,3;24
+WL-0485;Wilo-EMU Sewage 375/75-55;Sewage Pump;EMU Sewage;375;75;55;Duplex Steel;Mining;269200000;9;4,6;18
+WL-0486;Wilo-EMU Sewage 600/125-90;Sewage Pump;EMU Sewage;600;125;90;Duplex Steel;Wastewater Treatment;477000000;7;3,9;18
+WL-0487;Wilo-EMU Sewage 600/100-90;Sewage Pump;EMU Sewage;600;100;90;Duplex Steel;Wastewater Treatment;463700000;7;4,1;6
+WL-0488;Wilo-EMU Sewage 600/115-90;Sewage Pump;EMU Sewage;600;115;90;Cast Iron;Mining;291700000;15;4,8;12
+WL-0489;Wilo-EMU Sewage 600/45-90;Sewage Pump;EMU Sewage;600;45;90;Duplex Steel;Wastewater Treatment;450100000;3;4,2;18
+WL-0490;Wilo-EMU Sewage 535/145-90;Sewage Pump;EMU Sewage;535;145;90;Duplex Steel;Wastewater Treatment;467700000;23;5;6
+WL-0491;Wilo-EMU Sewage 600/105-75;Sewage Pump;EMU Sewage;600;105;75;Duplex Steel;Wastewater Treatment;379300000;29;4,4;18
+WL-0492;Wilo-EMU Sewage 600/15-90;Sewage Pump;EMU Sewage;600;15;90;Cast Iron;Mining;281200000;26;4;18
+WL-0493;Wilo-EMU Sewage 585/15-75;Sewage Pump;EMU Sewage;585;15;75;Duplex Steel;Mining;342900000;4;4,7;12
+WL-0494;Wilo-EMU Sewage 600/90-90;Sewage Pump;EMU Sewage;600;90;90;Cast Iron;Mining;302900000;26;4,7;24
+WL-0495;Wilo-EMU Sewage 600/20-90;Sewage Pump;EMU Sewage;600;20;90;Cast Iron;Wastewater Treatment;274400000;18;4,4;18
+WL-0496;Wilo-EMU Sewage 595/15-90;Sewage Pump;EMU Sewage;595;15;90;Stainless Steel 304;Mining;391100000;20;4,3;6
+WL-0497;Wilo-EMU Sewage 600/40-90;Sewage Pump;EMU Sewage;600;40;90;Cast Iron;Wastewater Treatment;285000000;13;4,7;24
+WL-0498;Wilo-EMU Sewage 370/15-55;Sewage Pump;EMU Sewage;370;15;55;Duplex Steel;Wastewater Treatment;263500000;25;4,1;24
+WL-0499;Wilo-EMU Sewage 430/35-75;Sewage Pump;EMU Sewage;430;35;75;Duplex Steel;Mining;354900000;5;4,3;18
+WL-0500;Wilo-EMU Sewage 600/110-90;Sewage Pump;EMU Sewage;600;110;90;Duplex Steel;Mining;457000000;15;4;24
+WL-0501;Wilo-EMU Sewage 315/145-55;Sewage Pump;EMU Sewage;315;145;55;Duplex Steel;Wastewater Treatment;286400000;5;3,9;12
+WL-0502;Wilo-EMU Sewage 255/155-45;Sewage Pump;EMU Sewage;255;155;45;Cast Iron;Wastewater Treatment;165000000;17;3,8;6
+WL-0503;Wilo-EMU Sewage 600/120-90;Sewage Pump;EMU Sewage;600;120;90;Cast Iron;Mining;310500000;10;3,8;12
+WL-0504;Wilo-EMU Sewage 450/200-75;Sewage Pump;EMU Sewage;450;200;75;Cast Iron;Wastewater Treatment;240600000;30;4,2;12
+WL-0505;Wilo-Drain TMC 600/95-90;Sewage Pump;Drain TMC;600;95;90;Stainless Steel 304;Wastewater Treatment;346500000;28;4,2;6
+WL-0506;Wilo-Drain TMC 450/90-75;Sewage Pump;Drain TMC;450;90;75;Stainless Steel 304;Mining;296900000;21;4,4;18
+WL-0507;Wilo-Drain TMC 600/15-90;Sewage Pump;Drain TMC;600;15;90;Cast Iron;Wastewater Treatment;294500000;20;4,8;6
+WL-0508;Wilo-Drain TMC 600/40-90;Sewage Pump;Drain TMC;600;40;90;Duplex Steel;Mining;392000000;19;4,5;12
+WL-0509;Wilo-Drain TMC 480/55-75;Sewage Pump;Drain TMC;480;55;75;Cast Iron;Wastewater Treatment;219800000;27;4;6
+WL-0510;Wilo-Drain TMC 600/80-90;Sewage Pump;Drain TMC;600;80;90;Cast Iron;Mining;269300000;2;4,6;18
+WL-0511;Wilo-Drain TMC 600/125-90;Sewage Pump;Drain TMC;600;125;90;Duplex Steel;Mining;421700000;25;4,6;24
+WL-0512;Wilo-Drain TMC 600/140-90;Sewage Pump;Drain TMC;600;140;90;Duplex Steel;Mining;412100000;16;4,9;18
+WL-0513;Wilo-Drain TMC 600/85-90;Sewage Pump;Drain TMC;600;85;90;Duplex Steel;Wastewater Treatment;421400000;16;5;12
+WL-0514;Wilo-Drain TMC 600/80-90;Sewage Pump;Drain TMC;600;80;90;Duplex Steel;Wastewater Treatment;436900000;10;4,5;24
+WL-0515;Wilo-Drain TMC 305/140-45;Sewage Pump;Drain TMC;305;140;45;Cast Iron;Mining;157100000;6;4,9;24
+WL-0516;Wilo-Drain TMC 600/110-90;Sewage Pump;Drain TMC;600;110;90;Stainless Steel 304;Wastewater Treatment;336100000;15;3,7;12
+WL-0517;Wilo-Drain TMC 600/15-90;Sewage Pump;Drain TMC;600;15;90;Stainless Steel 304;Mining;388900000;11;4,1;18
+WL-0518;Wilo-Drain TMC 600/75-90;Sewage Pump;Drain TMC;600;75;90;Duplex Steel;Wastewater Treatment;419000000;13;3,9;12
+WL-0519;Wilo-Drain TMC 600/80-90;Sewage Pump;Drain TMC;600;80;90;Stainless Steel 304;Mining;390500000;11;4,4;12
+WL-0520;Wilo-Drain TMC 515/115-75;Sewage Pump;Drain TMC;515;115;75;Stainless Steel 304;Mining;299800000;9;3,9;24
+WL-0521;Wilo-Drain TMC 600/170-90;Sewage Pump;Drain TMC;600;170;90;Cast Iron;Mining;324100000;4;3,8;6
+WL-0522;Wilo-Drain TMC 525/160-75;Sewage Pump;Drain TMC;525;160;75;Stainless Steel 304;Wastewater Treatment;324000000;28;3,8;24
+WL-0523;Wilo-Drain TMC 600/45-90;Sewage Pump;Drain TMC;600;45;90;Cast Iron;Mining;272300000;27;5;18
+WL-0524;Wilo-Drain TMC 600/150-90;Sewage Pump;Drain TMC;600;150;90;Duplex Steel;Wastewater Treatment;475300000;7;4,4;12
+WL-0525;Wilo-Drain TMC 600/30-90;Sewage Pump;Drain TMC;600;30;90;Stainless Steel 304;Wastewater Treatment;337300000;16;4;18
+WL-0526;Wilo-Drain TMC 390/140-55;Sewage Pump;Drain TMC;390;140;55;Stainless Steel 304;Mining;225000000;3;4,9;24
+WL-0527;Wilo-Drain TMC 510/20-75;Sewage Pump;Drain TMC;510;20;75;Duplex Steel;Wastewater Treatment;363000000;8;4,2;12
+WL-0528;Wilo-VeroLine-IP 285/135-45;End Suction;VeroLine-IP;285;135;45;Bronze Fitted;Agriculture;132000000;2;4,1;6
+WL-0529;Wilo-VeroLine-IP 600/225-75;End Suction;VeroLine-IP;600;225;75;Stainless Steel 304;Agriculture;231900000;20;3,6;24
+WL-0530;Wilo-VeroLine-IP 600/160-90;End Suction;VeroLine-IP;600;160;90;Stainless Steel 304;Manufacturing;247600000;28;3,8;6
+WL-0531;Wilo-VeroLine-IP 600/155-90;End Suction;VeroLine-IP;600;155;90;Stainless Steel 304;Manufacturing;256900000;29;4,3;18
+WL-0532;Wilo-VeroLine-IP 600/50-90;End Suction;VeroLine-IP;600;50;90;Bronze Fitted;Agriculture;245100000;25;4;24
+WL-0533;Wilo-VeroLine-IP 600/85-90;End Suction;VeroLine-IP;600;85;90;Stainless Steel 304;Manufacturing;241100000;13;3,8;6
+WL-0534;Wilo-VeroLine-IP 600/50-110;End Suction;VeroLine-IP;600;50;110;Bronze Fitted;Manufacturing;312000000;12;4,6;18
+WL-0535;Wilo-VeroLine-IP 600/205-90;End Suction;VeroLine-IP;600;205;90;Cast Iron;Agriculture;210600000;17;4,4;24
+WL-0536;Wilo-VeroLine-IP 165/85-22;End Suction;VeroLine-IP;165;85;22;Bronze Fitted;Agriculture;68600000;27;4,8;6
+WL-0537;Wilo-VeroLine-IP 470/95-75;End Suction;VeroLine-IP;470;95;75;Cast Iron;Manufacturing;168700000;13;4,1;18
+WL-0538;Wilo-VeroLine-IP 600/155-90;End Suction;VeroLine-IP;600;155;90;Stainless Steel 304;Agriculture;229800000;25;4,3;12
+WL-0539;Wilo-CronoBloc-BL 550/110-90;End Suction;CronoBloc-BL;550;110;90;Cast Iron;Agriculture;183400000;17;4,1;6
+WL-0540;Wilo-CronoBloc-BL 380/55-55;End Suction;CronoBloc-BL;380;55;55;Cast Iron;Manufacturing;106500000;5;3,8;18
+WL-0541;Wilo-CronoBloc-BL 550/15-90;End Suction;CronoBloc-BL;550;15;90;Stainless Steel 304;Agriculture;242500000;5;4,7;12
+WL-0542;Wilo-CronoBloc-BL 600/225-90;End Suction;CronoBloc-BL;600;225;90;Stainless Steel 304;Agriculture;235700000;6;4,8;24
+WL-0543;Wilo-CronoBloc-BL 600/185-90;End Suction;CronoBloc-BL;600;185;90;Bronze Fitted;Agriculture;290600000;19;4,6;18
+WL-0544;Wilo-CronoBloc-BL 360/100-55;End Suction;CronoBloc-BL;360;100;55;Bronze Fitted;Agriculture;173300000;23;4,8;18
+WL-0545;Wilo-CronoBloc-BL 600/70-90;End Suction;CronoBloc-BL;600;70;90;Stainless Steel 304;Manufacturing;263500000;12;4,5;18
+WL-0546;Wilo-CronoBloc-BL 600/185-90;End Suction;CronoBloc-BL;600;185;90;Bronze Fitted;Manufacturing;278300000;14;4,4;18
+WL-0547;Wilo-CronoBloc-BL 390/120-75;End Suction;CronoBloc-BL;390;120;75;Bronze Fitted;Manufacturing;201600000;20;4,2;24
+WL-0548;Wilo-CronoBloc-BL 540/35-75;End Suction;CronoBloc-BL;540;35;75;Stainless Steel 304;Manufacturing;202300000;24;4,1;6
+WL-0549;Wilo-CronoBloc-BL 600/150-90;End Suction;CronoBloc-BL;600;150;90;Bronze Fitted;Agriculture;287800000;6;4,8;24
+WL-0550;Wilo-NL 600/135-90;End Suction;NL;600;135;90;Cast Iron;Manufacturing;183000000;2;3,9;6
+WL-0551;Wilo-NL 600/130-90;End Suction;NL;600;130;90;Cast Iron;Manufacturing;179900000;15;4;18
+WL-0552;Wilo-NL 400/140-55;End Suction;NL;400;140;55;Stainless Steel 304;Manufacturing;167000000;14;4,5;12
+WL-0553;Wilo-NL 600/135-90;End Suction;NL;600;135;90;Stainless Steel 304;Agriculture;229100000;28;4,5;6
+WL-0554;Wilo-NL 420/185-55;End Suction;NL;420;185;55;Bronze Fitted;Manufacturing;172500000;17;4,3;12
+WL-0555;Wilo-NL 600/15-90;End Suction;NL;600;15;90;Bronze Fitted;Agriculture;247700000;22;4,2;24
+WL-0556;Wilo-NL 600/80-90;End Suction;NL;600;80;90;Bronze Fitted;Agriculture;267400000;11;4,5;12
+WL-0557;Wilo-NL 600/135-90;End Suction;NL;600;135;90;Stainless Steel 304;Agriculture;225900000;18;4,2;18
+WL-0558;Wilo-NL 600/60-75;End Suction;NL;600;60;75;Bronze Fitted;Agriculture;238300000;20;4,5;24
+WL-0559;Wilo-NL 600/175-90;End Suction;NL;600;175;90;Cast Iron;Manufacturing;197400000;9;4,7;18
+WL-0560;Wilo-NL 600/115-90;End Suction;NL;600;115;90;Cast Iron;Agriculture;209300000;25;4,9;18
+WL-0561;Wilo-VeroTwin-DP 600/190-90;End Suction;VeroTwin-DP;600;190;90;Bronze Fitted;Manufacturing;259600000;23;4,8;24
+WL-0562;Wilo-VeroTwin-DP 600/105-90;End Suction;VeroTwin-DP;600;105;90;Stainless Steel 304;Agriculture;248300000;12;4,5;18
+WL-0563;Wilo-VeroTwin-DP 600/150-90;End Suction;VeroTwin-DP;600;150;90;Stainless Steel 304;Manufacturing;248800000;19;4,3;24
+WL-0564;Wilo-VeroTwin-DP 600/170-90;End Suction;VeroTwin-DP;600;170;90;Stainless Steel 304;Agriculture;236100000;25;4,2;12
+WL-0565;Wilo-VeroTwin-DP 600/100-90;End Suction;VeroTwin-DP;600;100;90;Stainless Steel 304;Manufacturing;235400000;10;4,8;6
+WL-0566;Wilo-VeroTwin-DP 600/35-90;End Suction;VeroTwin-DP;600;35;90;Stainless Steel 304;Agriculture;250200000;21;4,4;18
+WL-0567;Wilo-VeroTwin-DP 600/65-90;End Suction;VeroTwin-DP;600;65;90;Bronze Fitted;Agriculture;236700000;7;4,4;12
+WL-0568;Wilo-VeroTwin-DP 600/175-90;End Suction;VeroTwin-DP;600;175;90;Bronze Fitted;Agriculture;289500000;30;4,5;18
+WL-0569;Wilo-VeroTwin-DP 600/130-75;End Suction;VeroTwin-DP;600;130;75;Cast Iron;Manufacturing;158300000;20;4,2;12
+WL-0570;Wilo-VeroTwin-DP 235/130-37;End Suction;VeroTwin-DP;235;130;37;Cast Iron;Manufacturing;84800000;22;4,6;12
+WL-0571;Wilo-VeroTwin-DP 600/90-90;End Suction;VeroTwin-DP;600;90;90;Bronze Fitted;Manufacturing;242400000;2;4,1;6
+WL-0572;Wilo-Widos 600/115-90;Dosing Pump;Widos;600;115;90;Bronze Fitted;Chemical Processing;121200000;23;4,6;24
+WL-0573;Wilo-Widos 600/50-90;Dosing Pump;Widos;600;50;90;Stainless Steel 316L;Pharmaceutical;153300000;25;4,1;12
+WL-0574;Wilo-Widos 600/100-90;Dosing Pump;Widos;600;100;90;Stainless Steel 316L;Pharmaceutical;129700000;30;4,3;12
+WL-0575;Wilo-Widos 595/85-90;Dosing Pump;Widos;595;85;90;Bronze Fitted;Pharmaceutical;116000000;30;4;24
+WL-0576;Wilo-Widos 530/55-75;Dosing Pump;Widos;530;55;75;Bronze Fitted;Pharmaceutical;98500000;7;4,2;18
+WL-0577;Wilo-Widos 600/85-90;Dosing Pump;Widos;600;85;90;Bronze Fitted;Chemical Processing;121600000;21;4,5;6
+WL-0578;Wilo-Makro TZ 550/160-75;Dosing Pump;Makro TZ;550;160;75;Stainless Steel 316L;Pharmaceutical;116600000;19;4;12
+WL-0579;Wilo-Makro TZ 485/20-75;Dosing Pump;Makro TZ;485;20;75;Stainless Steel 316L;Food & Beverage;107400000;14;4,4;12
+WL-0580;Wilo-Makro TZ 600/115-90;Dosing Pump;Makro TZ;600;115;90;Stainless Steel 316L;Chemical Processing;133100000;26;4,2;24
+WL-0581;Wilo-Makro TZ 600/45-90;Dosing Pump;Makro TZ;600;45;90;Stainless Steel 316L;Pharmaceutical;147600000;28;3,7;18
+WL-0582;Wilo-Makro TZ 600/35-90;Dosing Pump;Makro TZ;600;35;90;Stainless Steel 316L;Food & Beverage;142100000;10;4,3;6
+WL-0583;Wilo-Makro TZ 600/15-90;Dosing Pump;Makro TZ;600;15;90;Bronze Fitted;Chemical Processing;119000000;15;4;24
+WL-0584;Wilo-Iwaki 345/15-55;Dosing Pump;Iwaki;345;15;55;Stainless Steel 316L;Pharmaceutical;85700000;15;4,9;18
+WL-0585;Wilo-Iwaki 600/120-90;Dosing Pump;Iwaki;600;120;90;Stainless Steel 316L;Food & Beverage;153000000;11;3,6;12
+WL-0586;Wilo-Iwaki 345/70-55;Dosing Pump;Iwaki;345;70;55;Bronze Fitted;Pharmaceutical;77200000;9;4,3;12
+WL-0587;Wilo-Iwaki 600/95-90;Dosing Pump;Iwaki;600;95;90;Stainless Steel 316L;Pharmaceutical;139200000;11;4,2;18
+WL-0588;Wilo-Iwaki 590/15-90;Dosing Pump;Iwaki;590;15;90;Stainless Steel 316L;Food & Beverage;128600000;20;4,4;24
+WL-0589;Wilo-Iwaki 600/195-110;Dosing Pump;Iwaki;600;195;110;Bronze Fitted;Pharmaceutical;143800000;11;4,2;6
